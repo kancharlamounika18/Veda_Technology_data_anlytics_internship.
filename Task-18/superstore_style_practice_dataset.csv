@@ -1,0 +1,33 @@
+﻿Order Date,Region,Category,Sub-Category,Product,Segment,Sales ($),Profit ($)
+2025-01-08,East,Technology,Phones,Samsung Galaxy A54,Consumer,720,130
+2025-01-15,East,Office Supplies,Binders,Avery Durable Binder,Corporate,185,62
+2025-02-03,East,Furniture,Chairs,Ergonomic Office Chair,Home Office,860,148
+2025-02-21,East,Technology,Accessories,Wireless Mouse,Consumer,96,38
+2025-03-14,East,Office Supplies,Paper,Premium Copy Paper,Corporate,135,54
+2025-04-04,East,Furniture,Tables,Conference Table,Corporate,1120,168
+2025-05-19,East,Technology,Laptops,Business Laptop,Home Office,1450,245
+2025-06-27,East,Office Supplies,Storage,Rolling File Cabinet,Consumer,540,76
+2025-01-11,West,Technology,Phones,iPhone 14,Consumer,980,205
+2025-01-30,West,Furniture,Bookcases,Oak Bookcase,Corporate,735,92
+2025-02-18,West,Office Supplies,Labels,Shipping Labels,Consumer,88,31
+2025-03-09,West,Technology,Accessories,USB-C Dock,Home Office,310,84
+2025-04-22,West,Furniture,Tables,Standing Desk,Corporate,1290,206
+2025-05-05,West,Office Supplies,Appliances,Air Purifier,Home Office,420,74
+2025-06-16,West,Technology,Monitors,27-inch Monitor,Consumer,620,112
+2025-07-02,West,Furniture,Chairs,Mesh Task Chair,Corporate,790,121
+2025-01-06,Central,Office Supplies,Paper,Recycled Paper,Consumer,110,42
+2025-01-25,Central,Technology,Phones,Google Pixel 8,Home Office,835,156
+2025-02-12,Central,Furniture,Chairs,Training Chair,Corporate,510,83
+2025-03-28,Central,Office Supplies,Binders,Presentation Binder,Consumer,145,49
+2025-04-18,Central,Technology,Accessories,Keyboard and Mouse Set,Corporate,175,58
+2025-05-23,Central,Furniture,Bookcases,Five-Shelf Bookcase,Home Office,680,96
+2025-06-08,Central,Office Supplies,Storage,Storage Box Set,Consumer,225,61
+2025-07-21,Central,Technology,Copiers,Compact Copier,Corporate,1180,198
+2025-01-13,South,Furniture,Chairs,Executive Chair,Corporate,910,142
+2025-02-06,South,Office Supplies,Paper,Colored Paper Pack,Consumer,120,44
+2025-02-26,South,Technology,Phones,OnePlus 12,Consumer,690,126
+2025-03-17,South,Furniture,Tables,Side Table,Home Office,280,57
+2025-04-12,South,Office Supplies,Appliances,Desk Fan,Home Office,155,46
+2025-05-14,South,Technology,Laptops,Student Laptop,Consumer,990,171
+2025-06-25,South,Furniture,Bookcases,Compact Bookcase,Corporate,430,72
+2025-07-18,South,Office Supplies,Storage,Desk Organizer,Consumer,95,34
