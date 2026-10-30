@@ -1,0 +1,161 @@
+Row ID,Order ID,Order Date,Ship Date,Ship Mode,Customer ID,Customer Name,Segment,Country/Region,City
+50,CA-2019-115742,2019-04-18,2019-04-22,Standard Class,DP-13000,Darren Powers,Consumer,United States,New Albany
+51,CA-2019-115742,2019-04-18,2019-04-22,Standard Class,DP-13000,Darren Powers,Consumer,United States,New Albany
+52,CA-2019-115742,2019-04-18,2019-04-22,Standard Class,DP-13000,Darren Powers,Consumer,United States,New Albany
+53,CA-2019-115742,2019-04-18,2019-04-22,Standard Class,DP-13000,Darren Powers,Consumer,United States,New Albany
+67,US-2019-164175,2019-04-30,2019-05-05,Standard Class,PS-18970,Paul Stevenson,Home Office,United States,Chicago
+73,US-2019-134026,2019-04-26,2019-05-02,Standard Class,JE-15745,Joel Eaton,Consumer,United States,Memphis
+74,US-2019-134026,2019-04-26,2019-05-02,Standard Class,JE-15745,Joel Eaton,Consumer,United States,Memphis
+75,US-2019-134026,2019-04-26,2019-05-02,Standard Class,JE-15745,Joel Eaton,Consumer,United States,Memphis
+119,US-2019-136476,2019-04-05,2019-04-10,Standard Class,GG-14650,Greg Guthrie,Corporate,United States,Bristol
+379,CA-2019-130792,2019-04-28,2019-05-05,Standard Class,RA-19915,Russell Applegate,Consumer,United States,Houston
+380,CA-2019-130792,2019-04-28,2019-05-05,Standard Class,RA-19915,Russell Applegate,Consumer,United States,Houston
+381,CA-2019-130792,2019-04-28,2019-05-05,Standard Class,RA-19915,Russell Applegate,Consumer,United States,Houston
+704,CA-2019-142027,2019-04-09,2019-04-14,Standard Class,JK-15370,Jay Kimmel,Consumer,United States,Long Beach
+886,CA-2019-143602,2019-04-25,2019-04-28,Second Class,JS-15595,Jill Stevenson,Corporate,United States,Los Angeles
+922,CA-2019-111164,2019-04-11,2019-04-15,Standard Class,SE-20110,Sanjit Engle,Consumer,United States,New York City
+923,CA-2019-111164,2019-04-11,2019-04-15,Standard Class,SE-20110,Sanjit Engle,Consumer,United States,New York City
+924,CA-2019-111164,2019-04-11,2019-04-15,Standard Class,SE-20110,Sanjit Engle,Consumer,United States,New York City
+1021,CA-2019-124450,2019-04-27,2019-05-03,Standard Class,GT-14710,Greg Tran,Consumer,United States,Washington
+1022,CA-2019-124450,2019-04-27,2019-05-03,Standard Class,GT-14710,Greg Tran,Consumer,United States,Washington
+1023,CA-2019-124450,2019-04-27,2019-05-03,Standard Class,GT-14710,Greg Tran,Consumer,United States,Washington
+1054,CA-2019-110667,2019-04-04,2019-04-08,Standard Class,NF-18595,Nicole Fjeld,Home Office,United States,New York City
+1055,CA-2019-110667,2019-04-04,2019-04-08,Standard Class,NF-18595,Nicole Fjeld,Home Office,United States,New York City
+1056,CA-2019-110667,2019-04-04,2019-04-08,Standard Class,NF-18595,Nicole Fjeld,Home Office,United States,New York City
+1057,CA-2019-110667,2019-04-04,2019-04-08,Standard Class,NF-18595,Nicole Fjeld,Home Office,United States,New York City
+1062,CA-2019-161263,2019-04-16,2019-04-21,Standard Class,TS-21160,Theresa Swint,Corporate,United States,Toledo
+1063,CA-2019-161263,2019-04-16,2019-04-21,Standard Class,TS-21160,Theresa Swint,Corporate,United States,Toledo
+1064,CA-2019-161263,2019-04-16,2019-04-21,Standard Class,TS-21160,Theresa Swint,Corporate,United States,Toledo
+1065,CA-2019-161263,2019-04-16,2019-04-21,Standard Class,TS-21160,Theresa Swint,Corporate,United States,Toledo
+1066,CA-2019-161263,2019-04-16,2019-04-21,Standard Class,TS-21160,Theresa Swint,Corporate,United States,Toledo
+1067,CA-2019-161263,2019-04-16,2019-04-21,Standard Class,TS-21160,Theresa Swint,Corporate,United States,Toledo
+1147,CA-2019-112452,2019-04-04,2019-04-04,Same Day,NC-18340,Nat Carroll,Consumer,United States,Lansing
+1148,CA-2019-112452,2019-04-04,2019-04-04,Same Day,NC-18340,Nat Carroll,Consumer,United States,Lansing
+1149,CA-2019-112452,2019-04-04,2019-04-04,Same Day,NC-18340,Nat Carroll,Consumer,United States,Lansing
+1150,CA-2019-112452,2019-04-04,2019-04-04,Same Day,NC-18340,Nat Carroll,Consumer,United States,Lansing
+1151,CA-2019-112452,2019-04-04,2019-04-04,Same Day,NC-18340,Nat Carroll,Consumer,United States,Lansing
+2069,CA-2019-133452,2019-04-13,2019-04-19,Standard Class,ZC-21910,Zuschuss Carroll,Consumer,United States,Pomona
+2070,CA-2019-133452,2019-04-13,2019-04-19,Standard Class,ZC-21910,Zuschuss Carroll,Consumer,United States,Pomona
+2094,CA-2019-149678,2019-04-13,2019-04-15,Second Class,AW-10840,Anthony Witt,Consumer,United States,Farmington
+2291,CA-2019-149342,2019-04-20,2019-04-25,Standard Class,TS-21160,Theresa Swint,Corporate,United States,Columbus
+2292,CA-2019-149342,2019-04-20,2019-04-25,Standard Class,TS-21160,Theresa Swint,Corporate,United States,Columbus
+2293,CA-2019-149342,2019-04-20,2019-04-25,Standard Class,TS-21160,Theresa Swint,Corporate,United States,Columbus
+2512,CA-2019-102722,2019-04-18,2019-04-19,First Class,KW-16570,Kelly Williams,Consumer,United States,Monroe
+2525,CA-2019-124541,2019-04-06,2019-04-10,Standard Class,TT-21220,Thomas Thornton,Consumer,United States,Houston
+2526,CA-2019-124541,2019-04-06,2019-04-10,Standard Class,TT-21220,Thomas Thornton,Consumer,United States,Houston
+2527,CA-2019-124541,2019-04-06,2019-04-10,Standard Class,TT-21220,Thomas Thornton,Consumer,United States,Houston
+2528,CA-2019-124541,2019-04-06,2019-04-10,Standard Class,TT-21220,Thomas Thornton,Consumer,United States,Houston
+2529,CA-2019-124541,2019-04-06,2019-04-10,Standard Class,TT-21220,Thomas Thornton,Consumer,United States,Houston
+2753,CA-2019-155306,2019-04-17,2019-04-21,Standard Class,GA-14515,George Ashbrook,Consumer,United States,San Francisco
+2754,CA-2019-155306,2019-04-17,2019-04-21,Standard Class,GA-14515,George Ashbrook,Consumer,United States,San Francisco
+2755,CA-2019-155306,2019-04-17,2019-04-21,Standard Class,GA-14515,George Ashbrook,Consumer,United States,San Francisco
+2756,CA-2019-155306,2019-04-17,2019-04-21,Standard Class,GA-14515,George Ashbrook,Consumer,United States,San Francisco
+2757,CA-2019-155306,2019-04-17,2019-04-21,Standard Class,GA-14515,George Ashbrook,Consumer,United States,San Francisco
+2769,US-2019-122140,2019-04-02,2019-04-07,Standard Class,MO-17950,Michael Oakman,Consumer,United States,Dallas
+2770,US-2019-122140,2019-04-02,2019-04-07,Standard Class,MO-17950,Michael Oakman,Consumer,United States,Dallas
+2771,US-2019-122140,2019-04-02,2019-04-07,Standard Class,MO-17950,Michael Oakman,Consumer,United States,Dallas
+2899,US-2019-114839,2019-04-26,2019-04-30,Standard Class,PW-19240,Pierre Wener,Consumer,United States,Houston
+3045,CA-2019-135174,2019-04-30,2019-05-02,Second Class,BP-11230,Benjamin Patterson,Consumer,United States,Troy
+3141,CA-2019-112557,2019-04-25,2019-04-28,First Class,JL-15850,John Lucas,Consumer,United States,New York City
+3418,CA-2019-151841,2019-04-27,2019-05-02,Standard Class,TC-21475,Tony Chapman,Home Office,United States,Aurora
+3419,CA-2019-151841,2019-04-27,2019-05-02,Standard Class,TC-21475,Tony Chapman,Home Office,United States,Aurora
+3470,CA-2019-100888,2019-04-06,2019-04-10,Standard Class,MH-17455,Mark Hamilton,Consumer,United States,Jacksonville
+3521,CA-2019-168767,2019-04-10,2019-04-15,Standard Class,DM-12955,Dario Medina,Corporate,United States,Sacramento
+3904,CA-2019-167010,2019-04-05,2019-04-10,Standard Class,VT-21700,Valerie Takahito,Home Office,United States,Philadelphia
+3905,CA-2019-167010,2019-04-05,2019-04-10,Standard Class,VT-21700,Valerie Takahito,Home Office,United States,Philadelphia
+3906,CA-2019-167010,2019-04-05,2019-04-10,Standard Class,VT-21700,Valerie Takahito,Home Office,United States,Philadelphia
+3907,CA-2019-167010,2019-04-05,2019-04-10,Standard Class,VT-21700,Valerie Takahito,Home Office,United States,Philadelphia
+3908,CA-2019-167010,2019-04-05,2019-04-10,Standard Class,VT-21700,Valerie Takahito,Home Office,United States,Philadelphia
+3909,CA-2019-167010,2019-04-05,2019-04-10,Standard Class,VT-21700,Valerie Takahito,Home Office,United States,Philadelphia
+3910,CA-2019-167010,2019-04-05,2019-04-10,Standard Class,VT-21700,Valerie Takahito,Home Office,United States,Philadelphia
+3911,CA-2019-167010,2019-04-05,2019-04-10,Standard Class,VT-21700,Valerie Takahito,Home Office,United States,Philadelphia
+4046,CA-2019-136378,2019-04-02,2019-04-07,Standard Class,CS-11845,Cari Sayre,Corporate,United States,Houston
+4170,CA-2019-100216,2019-04-13,2019-04-14,First Class,HJ-14875,Heather Jas,Home Office,United States,Mesa
+4171,CA-2019-100216,2019-04-13,2019-04-14,First Class,HJ-14875,Heather Jas,Home Office,United States,Mesa
+4197,US-2019-134271,2019-04-18,2019-04-23,Second Class,RF-19735,Roland Fjeld,Consumer,United States,New York City
+4720,CA-2019-142601,2019-04-18,2019-04-20,Second Class,DE-13255,Deanra Eno,Home Office,United States,Los Angeles
+4721,CA-2019-142601,2019-04-18,2019-04-20,Second Class,DE-13255,Deanra Eno,Home Office,United States,Los Angeles
+4766,CA-2019-118227,2019-04-24,2019-04-28,Standard Class,DB-13270,Deborah Brumfield,Home Office,United States,New York City
+4821,CA-2019-140025,2019-04-07,2019-04-11,Standard Class,PF-19120,Peter Fuller,Consumer,United States,San Antonio
+4822,CA-2019-140025,2019-04-07,2019-04-11,Standard Class,PF-19120,Peter Fuller,Consumer,United States,San Antonio
+5179,US-2019-120502,2019-04-13,2019-04-19,Standard Class,BT-11395,Bill Tyler,Corporate,United States,Los Angeles
+5180,US-2019-120502,2019-04-13,2019-04-19,Standard Class,BT-11395,Bill Tyler,Corporate,United States,Los Angeles
+5181,US-2019-120502,2019-04-13,2019-04-19,Standard Class,BT-11395,Bill Tyler,Corporate,United States,Los Angeles
+5250,CA-2019-106215,2019-04-16,2019-04-21,Standard Class,BN-11470,Brad Norvell,Corporate,United States,Philadelphia
+5443,CA-2019-148712,2019-04-17,2019-04-23,Standard Class,JM-15535,Jessica Myrick,Consumer,United States,New York City
+5444,CA-2019-148712,2019-04-17,2019-04-23,Standard Class,JM-15535,Jessica Myrick,Consumer,United States,New York City
+5445,CA-2019-148712,2019-04-17,2019-04-23,Standard Class,JM-15535,Jessica Myrick,Consumer,United States,New York City
+5539,CA-2019-120551,2019-04-13,2019-04-20,Standard Class,SS-20590,Sonia Sunley,Consumer,United States,Norfolk
+5781,US-2019-159513,2019-04-02,2019-04-09,Standard Class,JD-15790,John Dryer,Consumer,United States,Los Angeles
+5861,CA-2019-157434,2019-04-29,2019-05-04,Second Class,JK-15640,Jim Kriz,Home Office,United States,Philadelphia
+5876,CA-2019-130554,2019-04-07,2019-04-09,First Class,FM-14290,Frank Merwin,Home Office,United States,Philadelphia
+6035,US-2019-155369,2019-04-19,2019-04-25,Standard Class,PG-18820,Patrick Gardner,Consumer,United States,Carrollton
+6036,US-2019-155369,2019-04-19,2019-04-25,Standard Class,PG-18820,Patrick Gardner,Consumer,United States,Carrollton
+6051,CA-2019-153878,2019-04-25,2019-04-30,Standard Class,TS-21655,Trudy Schmidt,Consumer,United States,Milwaukee
+6052,CA-2019-153878,2019-04-25,2019-04-30,Standard Class,TS-21655,Trudy Schmidt,Consumer,United States,Milwaukee
+6061,CA-2019-134201,2019-04-10,2019-04-16,Standard Class,EH-14125,Eugene Hildebrand,Home Office,United States,Rochester
+6062,CA-2019-134201,2019-04-10,2019-04-16,Standard Class,EH-14125,Eugene Hildebrand,Home Office,United States,Rochester
+6066,CA-2019-119942,2019-04-05,2019-04-07,First Class,TT-21070,Ted Trevino,Consumer,United States,Philadelphia
+6140,US-2019-113593,2019-04-18,2019-04-20,First Class,NC-18415,Nathan Cano,Consumer,United States,Santa Maria
+6168,CA-2019-142433,2019-04-20,2019-04-25,Standard Class,ES-14020,Erica Smith,Consumer,United States,Houston
+6201,CA-2019-146675,2019-04-16,2019-04-20,Standard Class,SB-20185,Sarah Brown,Consumer,United States,Evanston
+6202,CA-2019-146675,2019-04-16,2019-04-20,Standard Class,SB-20185,Sarah Brown,Consumer,United States,Evanston
+6293,CA-2019-151253,2019-04-22,2019-04-26,Standard Class,AZ-10750,Annie Zypern,Consumer,United States,Los Angeles
+6294,CA-2019-151253,2019-04-22,2019-04-26,Standard Class,AZ-10750,Annie Zypern,Consumer,United States,Los Angeles
+6592,CA-2019-103716,2019-04-30,2019-05-06,Standard Class,KB-16585,Ken Black,Corporate,United States,San Francisco
+6593,CA-2019-103716,2019-04-30,2019-05-06,Standard Class,KB-16585,Ken Black,Corporate,United States,San Francisco
+6612,CA-2019-107678,2019-04-21,2019-04-28,Standard Class,JK-16090,Juliana Krohn,Consumer,United States,Louisville
+6613,CA-2019-107678,2019-04-21,2019-04-28,Standard Class,JK-16090,Juliana Krohn,Consumer,United States,Louisville
+6614,CA-2019-107678,2019-04-21,2019-04-28,Standard Class,JK-16090,Juliana Krohn,Consumer,United States,Louisville
+6615,CA-2019-107678,2019-04-21,2019-04-28,Standard Class,JK-16090,Juliana Krohn,Consumer,United States,Louisville
+6948,CA-2019-130365,2019-04-25,2019-04-29,Standard Class,ZC-21910,Zuschuss Carroll,Consumer,United States,Aurora
+6949,CA-2019-130365,2019-04-25,2019-04-29,Standard Class,ZC-21910,Zuschuss Carroll,Consumer,United States,Aurora
+6956,CA-2019-115420,2019-04-25,2019-05-02,Standard Class,LS-16945,Linda Southworth,Corporate,United States,Los Angeles
+7334,CA-2019-125563,2019-04-11,2019-04-17,Standard Class,PR-18880,Patrick Ryan,Consumer,United States,Tampa
+7335,CA-2019-125563,2019-04-11,2019-04-17,Standard Class,PR-18880,Patrick Ryan,Consumer,United States,Tampa
+7457,CA-2019-137974,2019-04-16,2019-04-18,First Class,LL-16840,Lauren Leatherbury,Consumer,United States,Waynesboro
+7458,CA-2019-137974,2019-04-16,2019-04-18,First Class,LL-16840,Lauren Leatherbury,Consumer,United States,Waynesboro
+7459,CA-2019-137974,2019-04-16,2019-04-18,First Class,LL-16840,Lauren Leatherbury,Consumer,United States,Waynesboro
+7460,CA-2019-137974,2019-04-16,2019-04-18,First Class,LL-16840,Lauren Leatherbury,Consumer,United States,Waynesboro
+7461,US-2019-136987,2019-04-11,2019-04-14,Second Class,AR-10540,Andy Reiter,Consumer,United States,Los Angeles
+7462,US-2019-136987,2019-04-11,2019-04-14,Second Class,AR-10540,Andy Reiter,Consumer,United States,Los Angeles
+7583,CA-2019-142734,2019-04-16,2019-04-21,Standard Class,DM-13345,Denise Monton,Corporate,United States,New York City
+7646,CA-2019-161452,2019-04-05,2019-04-11,Standard Class,CA-11965,Carol Adams,Corporate,United States,Los Angeles
+7683,CA-2019-120782,2019-04-28,2019-05-01,First Class,SD-20485,Shirley Daniels,Home Office,United States,Midland
+7684,CA-2019-120782,2019-04-28,2019-05-01,First Class,SD-20485,Shirley Daniels,Home Office,United States,Midland
+7711,US-2019-142811,2019-04-02,2019-04-07,Standard Class,JL-15850,John Lucas,Consumer,United States,Mesa
+7829,CA-2019-137302,2019-04-26,2019-05-01,Standard Class,BW-11110,Bart Watters,Corporate,United States,San Diego
+7830,CA-2019-137302,2019-04-26,2019-05-01,Standard Class,BW-11110,Bart Watters,Corporate,United States,San Diego
+7831,CA-2019-137302,2019-04-26,2019-05-01,Standard Class,BW-11110,Bart Watters,Corporate,United States,San Diego
+7832,CA-2019-137302,2019-04-26,2019-05-01,Standard Class,BW-11110,Bart Watters,Corporate,United States,San Diego
+7835,CA-2019-106257,2019-04-13,2019-04-17,Second Class,EB-14110,Eugene Barchas,Consumer,United States,Los Angeles
+7836,CA-2019-106257,2019-04-13,2019-04-17,Second Class,EB-14110,Eugene Barchas,Consumer,United States,Los Angeles
+8207,CA-2019-122266,2019-04-26,2019-04-30,Standard Class,SA-20830,Sue Ann Reed,Consumer,United States,Daytona Beach
+8208,CA-2019-122266,2019-04-26,2019-04-30,Standard Class,SA-20830,Sue Ann Reed,Consumer,United States,Daytona Beach
+8301,CA-2019-109169,2019-04-20,2019-04-24,Standard Class,OT-18730,Olvera Toch,Consumer,United States,Detroit
+8347,US-2019-115238,2019-04-30,2019-05-04,Standard Class,JW-15220,Jane Waco,Corporate,United States,Lawrence
+8348,US-2019-115238,2019-04-30,2019-05-04,Standard Class,JW-15220,Jane Waco,Corporate,United States,Lawrence
+8349,US-2019-115238,2019-04-30,2019-05-04,Standard Class,JW-15220,Jane Waco,Corporate,United States,Lawrence
+8350,US-2019-115238,2019-04-30,2019-05-04,Standard Class,JW-15220,Jane Waco,Corporate,United States,Lawrence
+8351,US-2019-115238,2019-04-30,2019-05-04,Standard Class,JW-15220,Jane Waco,Corporate,United States,Lawrence
+8400,CA-2019-133837,2019-04-13,2019-04-18,Standard Class,TH-21100,Thea Hendricks,Consumer,United States,Glendale
+8466,CA-2019-116512,2019-04-09,2019-04-14,Standard Class,MC-18100,Mick Crebagga,Consumer,United States,New York City
+8467,CA-2019-101000,2019-04-09,2019-04-14,Standard Class,IG-15085,Ivan Gibson,Consumer,United States,Norwich
+8929,US-2019-168704,2019-04-13,2019-04-17,Standard Class,FP-14320,Frank Preis,Consumer,United States,Huntsville
+8930,US-2019-168704,2019-04-13,2019-04-17,Standard Class,FP-14320,Frank Preis,Consumer,United States,Huntsville
+8931,US-2019-168704,2019-04-13,2019-04-17,Standard Class,FP-14320,Frank Preis,Consumer,United States,Huntsville
+9004,CA-2019-102855,2019-04-05,2019-04-06,Same Day,JF-15415,Jennifer Ferguson,Consumer,United States,Spokane
+9005,CA-2019-102855,2019-04-05,2019-04-06,Same Day,JF-15415,Jennifer Ferguson,Consumer,United States,Spokane
+9037,CA-2019-166492,2019-04-07,2019-04-10,First Class,RP-19390,Resi P�lking,Consumer,United States,New York City
+9038,CA-2019-166492,2019-04-07,2019-04-10,First Class,RP-19390,Resi P�lking,Consumer,United States,New York City
+9297,US-2019-163433,2019-04-18,2019-04-22,Second Class,MP-17965,Michael Paige,Corporate,United States,Mcallen
+9298,US-2019-163433,2019-04-18,2019-04-22,Second Class,MP-17965,Michael Paige,Corporate,United States,Mcallen
+9299,US-2019-163433,2019-04-18,2019-04-22,Second Class,MP-17965,Michael Paige,Corporate,United States,Mcallen
+9300,US-2019-163433,2019-04-18,2019-04-22,Second Class,MP-17965,Michael Paige,Corporate,United States,Mcallen
+9301,US-2019-163433,2019-04-18,2019-04-22,Second Class,MP-17965,Michael Paige,Corporate,United States,Mcallen
+9302,US-2019-163433,2019-04-18,2019-04-22,Second Class,MP-17965,Michael Paige,Corporate,United States,Mcallen
+9303,US-2019-163433,2019-04-18,2019-04-22,Second Class,MP-17965,Michael Paige,Corporate,United States,Mcallen
+9304,US-2019-163433,2019-04-18,2019-04-22,Second Class,MP-17965,Michael Paige,Corporate,United States,Mcallen
+9305,US-2019-163433,2019-04-18,2019-04-22,Second Class,MP-17965,Michael Paige,Corporate,United States,Mcallen
+9600,CA-2019-116841,2019-04-14,2019-04-18,Standard Class,TP-21130,Theone Pippenger,Consumer,United States,Springfield
+9945,CA-2019-145415,2019-04-12,2019-04-17,Second Class,RD-19660,Robert Dilbeck,Home Office,United States,Seattle
