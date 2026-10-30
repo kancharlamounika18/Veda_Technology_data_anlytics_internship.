@@ -1,0 +1,16 @@
+customer_id,customer_name,email,city,phone
+C001,  aarav sharma , AARAV.SHARMA@EMAIL.COM , hyderabad , 98765 43210 
+C002,MEERA   PATEL,meera.patel @email.com,MUMBAI,9876543211
+C003, rohan kumar,ROHAN.KUMAR@EMAIL.COM, bengaluru,  91234-56789
+C004,ANANYA singh , ananya.singh@email.com ,Delhi ,99887 76655
+C005,  vikram rao,vikram.rao@EMAIL.COM,Chennai,  9000011111 
+C006,diya nair  ,DIYA.NAIR @email.com, kochi,88999-00011
+C007,KARAN  shah,karan.shah@email.com,Pune, 77777 88888
+C008, sneha iyer, sneha.iyer@email.com,BENGALURU ,  96666 55555
+C009,rahul  reddy ,RAHUL.REDDY@EMAIL.COM , hyderabad,95555-44444
+C010,PRIYA  DESAI,priya.desai @EMAIL.COM, Ahmedabad ,  94444 33333
+C011,  aditya verma,ADITYA.VERMA@email.com,LUCKNOW,93333 22221
+C012,kavya menon , kavya.menon@email.com , thiruvananthapuram ,92222-11110
+C013,SAMEER khan,sameer.khan@EMAIL.COM,Jaipur ,91111 00009
+C014,  neha joshi  ,NEHA.JOSHI @email.com, surat,  90000-12345 
+C015,AMIT  GUPTA, amit.gupta@email.com,NEW DELHI,88888 99990
