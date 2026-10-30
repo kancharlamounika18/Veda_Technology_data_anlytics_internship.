@@ -1,0 +1,61 @@
+Order ID,Product ID,Product Name,Category,Quantity,Sales
+ORD-001,FUR-001,Office Chair,Furniture,1,100.0
+ORD-002,FUR-004,Conference Table,Furniture,2,137.5
+ORD-003,FUR-007,Standing Desk,Furniture,3,175.0
+ORD-004,OFF-003,Pens,Office Supplies,4,212.5
+ORD-005,OFF-006,Labels,Office Supplies,1,250.0
+ORD-006,OFF-009,Paper Clips,Office Supplies,2,287.5
+ORD-007,TEC-002,Monitor,Technology,3,325.0
+ORD-008,TEC-005,Printer,Technology,4,362.5
+ORD-009,FUR-002,Writing Desk,Furniture,1,400.0
+ORD-010,FUR-005,Filing Cabinet,Furniture,2,437.5
+ORD-011,OFF-001,Paper,Office Supplies,3,100.0
+ORD-012,OFF-004,Binders,Office Supplies,4,137.5
+ORD-013,OFF-007,Scissors,Office Supplies,1,175.0
+ORD-014,OFF-010,Notepad,Office Supplies,2,212.5
+ORD-015,TEC-003,Keyboard,Technology,3,250.0
+ORD-016,TEC-006,Tablet,Technology,4,287.5
+ORD-017,FUR-003,Bookcase,Furniture,1,325.0
+ORD-018,FUR-006,Storage Cabinet,Furniture,2,362.5
+ORD-019,OFF-002,Stapler,Office Supplies,3,400.0
+ORD-020,OFF-005,Envelopes,Office Supplies,4,437.5
+ORD-021,OFF-008,Storage Box,Office Supplies,1,100.0
+ORD-022,TEC-001,Laptop,Technology,2,137.5
+ORD-023,TEC-004,Mouse,Technology,3,175.0
+ORD-024,FUR-001,Office Chair,Furniture,4,212.5
+ORD-025,FUR-004,Conference Table,Furniture,1,250.0
+ORD-026,FUR-007,Standing Desk,Furniture,2,287.5
+ORD-027,OFF-003,Pens,Office Supplies,3,325.0
+ORD-028,OFF-006,Labels,Office Supplies,4,362.5
+ORD-029,OFF-009,Paper Clips,Office Supplies,1,400.0
+ORD-030,TEC-002,Monitor,Technology,2,437.5
+ORD-031,TEC-005,Printer,Technology,3,100.0
+ORD-032,FUR-002,Writing Desk,Furniture,4,137.5
+ORD-033,FUR-005,Filing Cabinet,Furniture,1,175.0
+ORD-034,OFF-001,Paper,Office Supplies,2,212.5
+ORD-035,OFF-004,Binders,Office Supplies,3,250.0
+ORD-036,OFF-007,Scissors,Office Supplies,4,287.5
+ORD-037,OFF-010,Notepad,Office Supplies,1,325.0
+ORD-038,TEC-003,Keyboard,Technology,2,362.5
+ORD-039,TEC-006,Tablet,Technology,3,400.0
+ORD-040,FUR-003,Bookcase,Furniture,4,437.5
+ORD-041,FUR-006,Storage Cabinet,Furniture,1,100.0
+ORD-042,OFF-002,Stapler,Office Supplies,2,137.5
+ORD-043,OFF-005,Envelopes,Office Supplies,3,175.0
+ORD-044,OFF-008,Storage Box,Office Supplies,4,212.5
+ORD-045,TEC-001,Laptop,Technology,1,250.0
+ORD-046,TEC-004,Mouse,Technology,2,287.5
+ORD-047,FUR-001,Office Chair,Furniture,3,325.0
+ORD-048,FUR-004,Conference Table,Furniture,4,362.5
+ORD-049,FUR-007,Standing Desk,Furniture,1,400.0
+ORD-050,OFF-003,Pens,Office Supplies,2,437.5
+ORD-051,OFF-006,Labels,Office Supplies,3,100.0
+ORD-052,OFF-009,Paper Clips,Office Supplies,4,137.5
+ORD-053,TEC-002,Monitor,Technology,1,175.0
+ORD-054,TEC-005,Printer,Technology,2,212.5
+ORD-055,FUR-002,Writing Desk,Furniture,3,250.0
+ORD-056,FUR-005,Filing Cabinet,Furniture,4,287.5
+ORD-057,OFF-001,Paper,Office Supplies,1,325.0
+ORD-058,OFF-004,Binders,Office Supplies,2,362.5
+ORD-059,OFF-007,Scissors,Office Supplies,3,400.0
+ORD-060,OFF-010,Notepad,Office Supplies,4,437.5
