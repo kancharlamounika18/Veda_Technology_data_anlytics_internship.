@@ -1,0 +1,100 @@
+# Veda Technology Internship - Data Analytics Track
+## Task 10: Simple KPI Tracking Sheet
+
+**Intern Name:** Kancharla Mounika
+**Track:** Data Analytics
+**Program Duration:** 45 Days
+**Start Date:** September 15, 2026
+**Company:** VEDA TECHNOLOGY
+
+---
+
+### Project Overview
+
+This repository contains the complete implementation for Task 10 of the Veda Technology Internship Program. The goal is to translate raw transactional order data into a concise, business-ready KPI summary that recalculates automatically as new data rows are added.
+
+The deliverable is a two-tab Excel workbook generated programmatically with Python and openpyxl:
+
+- **KPI Summary** tab: one-page dashboard with 5 auto-updating KPIs
+- **Raw_Data** tab: 300-row Sample Superstore order register used as the data source
+
+---
+
+### KPI Definitions
+
+| KPI | Formula Type | Business Purpose |
+| :--- | :--- | :--- |
+| Total Revenue | SUM | Overall sales performance |
+| Total Profit | SUM | Net margin indicator |
+| Profit Margin | SUM / SUM | Efficiency of sales operations |
+| Total Units Sold | SUM | Volume tracking |
+| Number of Orders | COUNTA | Transaction count |
+| Average Order Value | SUM / COUNTA | Revenue per transaction |
+| Top Product by Revenue | INDEX / MATCH / MAXIFS | Best revenue-generating product |
+
+---
+
+### Auto-Update Logic
+
+All KPI formulas reference column ranges on the Raw_Data sheet. To extend the tracker as new orders arrive, add rows below the last data row. Converting the Raw_Data range to an Excel Table (Ctrl+T) makes all formulas expand automatically without any manual range adjustment.
+
+---
+
+### Dataset Description
+
+The dataset is a synthetic Sample Superstore-style order register covering fiscal year 2024 (300 transactions). Each row contains:
+
+Order ID, Order Date, Ship Mode, Region, Category, Product Name, Unit Price, Discount, Sale Price, Quantity, Revenue, Cost, Profit.
+
+---
+
+### Technical Interview Questions
+
+**Q1: How would you decide which KPIs matter most for a small retail business?**
+
+KPI selection should start from the core business objective. For a small retailer, survival depends on cash flow and profitability, so Revenue, Profit Margin, and Average Order Value are non-negotiable baseline indicators. Units Sold and Top Product provide the operational context needed to diagnose performance. The key principle is to limit the first version to no more than five indicators to avoid analysis paralysis.
+
+**Q2: How do you keep a KPI sheet accurate as new data comes in?**
+
+Accuracy is maintained through three practices: converting the raw data range to an Excel Table so formula references expand automatically; using SUMIFS and AVERAGEIFS instead of manual totals; and protecting the KPI Summary sheet from accidental edits while keeping the Raw Data sheet open for data entry.
+
+---
+
+### Repository Structure
+
+```
+.
+├── data/
+│   └── superstore_orders.csv
+├── src/
+│   ├── prepare_data.py
+│   ├── generate_excel.py
+│   └── generate_pdf_report.py
+├── output/
+│   ├── KPI_Tracking_Sheet.xlsx
+│   ├── Task10_Report.pdf
+│
+├── README.md
+├── README_FR.md
+├── linkedin_post.txt
+├── linkedin_post_FR.txt
+└── requirements.txt
+```
+
+---
+
+### How to Run
+
+```bash
+pip install openpyxl reportlab pillow pandas
+python src/prepare_data.py
+python src/generate_excel.py
+python src/generate_pdf_report.py
+```
+
+---
+
+### Submission Files
+
+- Excel KPI Workbook: `output/KPI_Tracking_Sheet.xlsx`
+- LinkedIn Post: `linkedin_post.txt`
