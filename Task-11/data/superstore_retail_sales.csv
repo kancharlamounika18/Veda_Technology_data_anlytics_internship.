@@ -1,0 +1,501 @@
+Order_ID,Order_Date,Ship_Date,Ship_Mode,Customer_Segment,Country,City,State,Region,Category,Sub_Category,Product_Name,Sales,Quantity,Discount,Profit
+CA-2024-100446,2024-01-01,2024-01-03,First Class,Home Office,United States,Houston,Texas,Central,Office Supplies,Paper,Hammermill Premium Multipurpose Paper 500ct,58.0,5,0.2,13.05
+CA-2024-100263,2024-01-02,2024-01-07,Standard Class,Consumer,United States,Los Angeles,California,West,Office Supplies,Envelopes,Quality Park Security Envelopes 500ct,138.6,7,0.1,49.28
+CA-2024-100206,2024-01-02,2024-01-04,First Class,Home Office,United States,Philadelphia,Pennsylvania,East,Furniture,Bookcases,Bush Mission Oak 4-Shelf Bookcase,1600.0,5,0.0,192.0
+CA-2024-100063,2024-01-02,2024-01-07,Standard Class,Corporate,United States,San Francisco,California,West,Office Supplies,Paper,Hammermill Premium Multipurpose Paper 500ct,14.5,1,0.0,5.51
+CA-2024-100496,2024-01-04,2024-01-09,Standard Class,Corporate,United States,Houston,Texas,Central,Furniture,Tables,BPI Conference Room Table,7120.0,10,0.2,-445.0
+CA-2024-100325,2024-01-04,2024-01-09,Standard Class,Home Office,United States,Seattle,Washington,West,Furniture,Bookcases,Bush Mission Oak 4-Shelf Bookcase,2560.0,8,0.0,307.2
+CA-2024-100128,2024-01-05,2024-01-08,Second Class,Consumer,United States,Philadelphia,Pennsylvania,East,Office Supplies,Appliances,Krups 12-Cup Programmable Coffee Maker,80.75,1,0.05,19.55
+CA-2024-100415,2024-01-05,2024-01-07,First Class,Corporate,United States,Los Angeles,California,West,Technology,Copiers,Canon ImageCLASS Copier,3417.15,3,0.05,899.25
+CA-2024-100334,2024-01-06,2024-01-08,First Class,Corporate,United States,Chicago,Illinois,Central,Office Supplies,Binders,GBC Heavy-Duty Binder 3-Inch,156.8,8,0.3,33.6
+CA-2024-100097,2024-01-09,2024-01-12,Second Class,Consumer,United States,Miami,Florida,South,Technology,Phones,Samsung Galaxy S24,1443.3,2,0.15,118.86
+CA-2024-100269,2024-01-09,2024-01-12,Second Class,Corporate,United States,New York,New York,East,Furniture,Chairs,Herman Miller Ergonomic Task Chair,2925.0,5,0.1,325.0
+CA-2024-100484,2024-01-10,2024-01-13,Second Class,Consumer,United States,Boston,Massachusetts,East,Office Supplies,Appliances,Krups 12-Cup Programmable Coffee Maker,323.0,4,0.05,78.2
+CA-2024-100151,2024-01-13,2024-01-20,Standard Class,Corporate,United States,Seattle,Washington,West,Furniture,Bookcases,Bush Mission Oak 4-Shelf Bookcase,1280.0,4,0.0,153.6
+CA-2024-100378,2024-01-13,2024-01-16,Second Class,Consumer,United States,Seattle,Washington,West,Office Supplies,Envelopes,Quality Park Security Envelopes 500ct,110.0,5,0.0,46.2
+CA-2024-100050,2024-01-14,2024-01-19,Standard Class,Home Office,United States,Los Angeles,California,West,Office Supplies,Envelopes,Quality Park Security Envelopes 500ct,149.6,8,0.15,47.52
+CA-2024-100134,2024-01-15,2024-01-20,Standard Class,Corporate,United States,Seattle,Washington,West,Technology,Accessories,Logitech MX Master 3S Mouse,594.0,6,0.0,207.9
+CA-2024-100092,2024-01-15,2024-01-20,Standard Class,Home Office,United States,Detroit,Michigan,Central,Technology,Copiers,Canon ImageCLASS Copier,10791.0,9,0.0,3237.3
+CA-2024-100497,2024-01-16,2024-01-18,First Class,Consumer,United States,Miami,Florida,South,Office Supplies,Paper,Hammermill Premium Multipurpose Paper 500ct,130.5,9,0.0,49.59
+CA-2024-100329,2024-01-17,2024-01-24,Standard Class,Consumer,United States,Philadelphia,Pennsylvania,East,Technology,Accessories,Logitech MX Master 3S Mouse,658.35,7,0.05,207.9
+CA-2024-100352,2024-01-18,2024-01-23,Standard Class,Consumer,United States,New York,New York,East,Technology,Accessories,Logitech MX Master 3S Mouse,470.25,5,0.05,148.5
+CA-2024-100383,2024-01-20,2024-01-23,Second Class,Home Office,United States,Los Angeles,California,West,Technology,Machines,HP LaserJet Pro Multifunction Printer,1530.0,4,0.15,54.0
+CA-2024-100044,2024-01-21,2024-01-26,Standard Class,Consumer,United States,Chicago,Illinois,Central,Technology,Phones,Samsung Galaxy S24,5773.2,8,0.15,475.44
+CA-2024-100006,2024-01-21,2024-01-24,Second Class,Consumer,United States,Philadelphia,Pennsylvania,East,Technology,Machines,HP LaserJet Pro Multifunction Printer,2025.0,5,0.1,180.0
+CA-2024-100307,2024-01-22,2024-01-25,Second Class,Consumer,United States,Charlotte,North Carolina,South,Technology,Accessories,Logitech MX Master 3S Mouse,485.1,7,0.3,34.65
+CA-2024-100025,2024-01-22,2024-01-24,First Class,Consumer,United States,Boston,Massachusetts,East,Technology,Phones,Apple iPhone 15 Pro,7992.0,8,0.0,1998.0
+CA-2024-100482,2024-01-23,2024-01-26,Second Class,Corporate,United States,San Francisco,California,West,Furniture,Furnishings,Deflecto Executive Desk Pad,243.0,6,0.1,81.0
+CA-2024-100375,2024-01-26,2024-01-28,First Class,Home Office,United States,Los Angeles,California,West,Furniture,Tables,BPI Conference Room Table,6808.5,9,0.15,0.0
+CA-2024-100316,2024-01-27,2024-02-01,Standard Class,Home Office,United States,Atlanta,Georgia,South,Furniture,Tables,BPI Conference Room Table,5340.0,6,0.0,801.0
+CA-2024-100164,2024-01-28,2024-01-30,First Class,Consumer,United States,Atlanta,Georgia,South,Furniture,Chairs,Herman Miller Ergonomic Task Chair,6500.0,10,0.0,1300.0
+CA-2024-100109,2024-01-28,2024-02-04,Standard Class,Consumer,United States,Miami,Florida,South,Technology,Copiers,Canon ImageCLASS Copier,7194.0,6,0.0,2158.2
+CA-2024-100149,2024-01-29,2024-02-03,Standard Class,Corporate,United States,Los Angeles,California,West,Office Supplies,Envelopes,Quality Park Security Envelopes 500ct,132.0,6,0.0,55.44
+CA-2024-100114,2024-02-02,2024-02-09,Standard Class,Consumer,United States,Houston,Texas,Central,Office Supplies,Storage,Fellowes Heavy-Duty Storage Boxes 12pk,300.0,4,0.0,75.0
+CA-2024-100305,2024-02-02,2024-02-05,Second Class,Home Office,United States,San Francisco,California,West,Furniture,Chairs,Herman Miller Ergonomic Task Chair,1852.5,3,0.05,292.5
+CA-2024-100326,2024-02-04,2024-02-06,First Class,Consumer,United States,Charlotte,North Carolina,South,Furniture,Bookcases,Bush Mission Oak 4-Shelf Bookcase,1632.0,6,0.15,-57.6
+CA-2024-100058,2024-02-04,2024-02-07,Second Class,Consumer,United States,Philadelphia,Pennsylvania,East,Furniture,Furnishings,Deflecto Executive Desk Pad,153.0,4,0.15,45.0
+CA-2024-100123,2024-02-04,2024-02-11,Standard Class,Consumer,United States,Houston,Texas,Central,Office Supplies,Appliances,Krups 12-Cup Programmable Coffee Maker,595.0,7,0.0,166.6
+CA-2024-100150,2024-02-05,2024-02-07,First Class,Corporate,United States,Los Angeles,California,West,Furniture,Chairs,Herman Miller Ergonomic Task Chair,3510.0,6,0.1,390.0
+CA-2024-100381,2024-02-05,2024-02-08,Second Class,Home Office,United States,Seattle,Washington,West,Furniture,Bookcases,Bush Mission Oak 4-Shelf Bookcase,1632.0,6,0.15,-57.6
+CA-2024-100337,2024-02-06,2024-02-09,Second Class,Consumer,United States,Los Angeles,California,West,Office Supplies,Binders,GBC Heavy-Duty Binder 3-Inch,196.0,10,0.3,42.0
+CA-2024-100267,2024-02-06,2024-02-09,Second Class,Home Office,United States,Los Angeles,California,West,Office Supplies,Binders,GBC Heavy-Duty Binder 3-Inch,176.4,7,0.1,68.6
+CA-2024-100310,2024-02-07,2024-02-09,First Class,Corporate,United States,Miami,Florida,South,Furniture,Furnishings,Deflecto Executive Desk Pad,81.0,2,0.1,27.0
+CA-2024-100372,2024-02-08,2024-02-13,Standard Class,Consumer,United States,Atlanta,Georgia,South,Office Supplies,Appliances,Krups 12-Cup Programmable Coffee Maker,255.0,3,0.0,71.4
+CA-2024-100249,2024-02-08,2024-02-10,First Class,Home Office,United States,New York,New York,East,Technology,Phones,Apple iPhone 15 Pro,4795.2,8,0.4,-1198.8
+CA-2024-100476,2024-02-08,2024-02-11,Second Class,Corporate,United States,Los Angeles,California,West,Technology,Copiers,Canon ImageCLASS Copier,7973.35,7,0.05,2098.25
+CA-2024-100090,2024-02-10,2024-02-17,Standard Class,Consumer,United States,Philadelphia,Pennsylvania,East,Furniture,Furnishings,Deflecto Executive Desk Pad,324.0,9,0.2,81.0
+CA-2024-100108,2024-02-10,2024-02-13,Second Class,Consumer,United States,Chicago,Illinois,Central,Furniture,Bookcases,Bush Mission Oak 4-Shelf Bookcase,2880.0,9,0.0,345.6
+CA-2024-100136,2024-02-11,2024-02-14,Second Class,Corporate,United States,Los Angeles,California,West,Office Supplies,Envelopes,Quality Park Security Envelopes 500ct,79.2,4,0.1,28.16
+CA-2024-100166,2024-02-13,2024-02-16,Second Class,Consumer,United States,Miami,Florida,South,Furniture,Tables,BPI Conference Room Table,5340.0,6,0.0,801.0
+CA-2024-100070,2024-02-13,2024-02-16,Second Class,Consumer,United States,Miami,Florida,South,Office Supplies,Storage,Fellowes Heavy-Duty Storage Boxes 12pk,600.0,10,0.2,37.5
+CA-2024-100160,2024-02-14,2024-02-15,Same Day,Home Office,United States,New York,New York,East,Technology,Accessories,Logitech MX Master 3S Mouse,712.8,8,0.1,198.0
+CA-2024-100333,2024-02-15,2024-02-20,Standard Class,Consumer,United States,Seattle,Washington,West,Office Supplies,Envelopes,Quality Park Security Envelopes 500ct,198.0,10,0.1,70.4
+CA-2024-100470,2024-02-16,2024-02-23,Standard Class,Consumer,United States,San Francisco,California,West,Office Supplies,Storage,Fellowes Heavy-Duty Storage Boxes 12pk,405.0,6,0.1,67.5
+CA-2024-100421,2024-02-16,2024-02-18,First Class,Consumer,United States,Detroit,Michigan,Central,Office Supplies,Appliances,Krups 12-Cup Programmable Coffee Maker,85.0,1,0.0,23.8
+CA-2024-100452,2024-02-17,2024-02-24,Standard Class,Corporate,United States,Boston,Massachusetts,East,Furniture,Chairs,Herman Miller Ergonomic Task Chair,1105.0,2,0.15,65.0
+CA-2024-100115,2024-02-17,2024-02-18,Same Day,Corporate,United States,Seattle,Washington,West,Furniture,Tables,BPI Conference Room Table,8010.0,10,0.1,445.0
+CA-2024-100328,2024-02-18,2024-02-23,Standard Class,Home Office,United States,Chicago,Illinois,Central,Technology,Phones,Apple iPhone 15 Pro,3196.8,4,0.2,199.8
+CA-2024-100029,2024-02-18,2024-02-23,Standard Class,Corporate,United States,Chicago,Illinois,Central,Furniture,Tables,BPI Conference Room Table,1691.0,2,0.05,178.0
+CA-2024-100061,2024-02-19,2024-02-21,First Class,Consumer,United States,Boston,Massachusetts,East,Furniture,Tables,BPI Conference Room Table,3560.0,4,0.0,534.0
+CA-2024-100313,2024-02-20,2024-02-22,First Class,Consumer,United States,Boston,Massachusetts,East,Technology,Phones,Samsung Galaxy S24,4754.4,8,0.3,-543.36
+CA-2024-100394,2024-02-20,2024-02-23,Second Class,Corporate,United States,New York,New York,East,Office Supplies,Binders,GBC Heavy-Duty Binder 3-Inch,224.0,8,0.0,100.8
+CA-2024-100036,2024-02-20,2024-02-23,Second Class,Home Office,United States,Boston,Massachusetts,East,Office Supplies,Storage,Fellowes Heavy-Duty Storage Boxes 12pk,712.5,10,0.05,150.0
+CA-2024-100197,2024-02-21,2024-02-24,Second Class,Home Office,United States,Detroit,Michigan,Central,Office Supplies,Art,Prismacolor Premier Colored Pencils 72ct,260.0,5,0.0,91.0
+CA-2024-100142,2024-02-21,2024-02-22,Same Day,Consumer,United States,San Francisco,California,West,Furniture,Chairs,Herman Miller Ergonomic Task Chair,3250.0,5,0.0,650.0
+CA-2024-100412,2024-02-22,2024-02-27,Standard Class,Consumer,United States,San Francisco,California,West,Technology,Accessories,Logitech MX Master 3S Mouse,693.0,7,0.0,242.55
+CA-2024-100085,2024-02-22,2024-02-23,Same Day,Consumer,United States,Charlotte,North Carolina,South,Furniture,Chairs,Herman Miller Ergonomic Task Chair,5850.0,9,0.0,1170.0
+CA-2024-100215,2024-02-22,2024-02-25,Second Class,Consumer,United States,San Francisco,California,West,Furniture,Furnishings,Deflecto Executive Desk Pad,180.0,4,0.0,72.0
+CA-2024-100054,2024-02-22,2024-02-23,Same Day,Consumer,United States,Miami,Florida,South,Office Supplies,Envelopes,Quality Park Security Envelopes 500ct,154.0,10,0.3,26.4
+CA-2024-100355,2024-02-23,2024-02-28,Standard Class,Consumer,United States,Boston,Massachusetts,East,Office Supplies,Paper,Hammermill Premium Multipurpose Paper 500ct,110.92,9,0.15,30.01
+CA-2024-100409,2024-02-23,2024-02-24,Same Day,Consumer,United States,Philadelphia,Pennsylvania,East,Technology,Phones,Apple iPhone 15 Pro,999.0,1,0.0,249.75
+CA-2024-100209,2024-02-23,2024-02-26,Second Class,Consumer,United States,Chicago,Illinois,Central,Furniture,Chairs,Herman Miller Ergonomic Task Chair,3510.0,6,0.1,390.0
+CA-2024-100064,2024-02-23,2024-02-28,Standard Class,Consumer,United States,Miami,Florida,South,Office Supplies,Envelopes,Quality Park Security Envelopes 500ct,88.0,4,0.0,36.96
+CA-2024-100277,2024-02-23,2024-02-26,Second Class,Consumer,United States,Chicago,Illinois,Central,Furniture,Tables,BPI Conference Room Table,890.0,1,0.0,133.5
+CA-2024-100038,2024-02-24,2024-02-29,Standard Class,Consumer,United States,San Francisco,California,West,Furniture,Bookcases,Bush Mission Oak 4-Shelf Bookcase,2240.0,7,0.0,268.8
+CA-2024-100356,2024-02-27,2024-03-01,Second Class,Consumer,United States,New York,New York,East,Office Supplies,Envelopes,Quality Park Security Envelopes 500ct,176.0,8,0.0,73.92
+CA-2024-100436,2024-02-27,2024-03-01,Second Class,Consumer,United States,Detroit,Michigan,Central,Technology,Machines,HP LaserJet Pro Multifunction Printer,3150.0,7,0.0,567.0
+CA-2024-100444,2024-02-27,2024-03-05,Standard Class,Corporate,United States,New York,New York,East,Technology,Phones,Apple iPhone 15 Pro,9490.5,10,0.05,1998.0
+CA-2024-100402,2024-02-27,2024-03-01,Second Class,Consumer,United States,Los Angeles,California,West,Technology,Phones,Apple iPhone 15 Pro,8991.0,9,0.0,2247.75
+CA-2024-100030,2024-02-28,2024-03-04,Standard Class,Consumer,United States,Seattle,Washington,West,Furniture,Tables,BPI Conference Room Table,2670.0,3,0.0,400.5
+CA-2024-100262,2024-02-29,2024-03-02,First Class,Home Office,United States,Chicago,Illinois,Central,Furniture,Chairs,Herman Miller Ergonomic Task Chair,6175.0,10,0.05,975.0
+CA-2024-100413,2024-02-29,2024-03-03,Second Class,Corporate,United States,Los Angeles,California,West,Office Supplies,Binders,GBC Heavy-Duty Binder 3-Inch,151.2,6,0.1,58.8
+CA-2024-100116,2024-03-02,2024-03-09,Standard Class,Home Office,United States,Houston,Texas,Central,Office Supplies,Paper,Hammermill Premium Multipurpose Paper 500ct,101.5,7,0.0,38.57
+CA-2024-100161,2024-03-02,2024-03-05,Second Class,Consumer,United States,Houston,Texas,Central,Furniture,Tables,BPI Conference Room Table,8010.0,9,0.0,1201.5
+CA-2024-100397,2024-03-03,2024-03-06,Second Class,Consumer,United States,Philadelphia,Pennsylvania,East,Technology,Machines,HP LaserJet Pro Multifunction Printer,360.0,1,0.2,-9.0
+CA-2024-100101,2024-03-03,2024-03-04,Same Day,Consumer,United States,Houston,Texas,Central,Technology,Accessories,Logitech MX Master 3S Mouse,445.5,5,0.1,123.75
+CA-2024-100138,2024-03-03,2024-03-05,First Class,Corporate,United States,New York,New York,East,Furniture,Furnishings,Deflecto Executive Desk Pad,360.0,8,0.0,144.0
+CA-2024-100094,2024-03-05,2024-03-06,Same Day,Corporate,United States,Chicago,Illinois,Central,Furniture,Bookcases,Bush Mission Oak 4-Shelf Bookcase,1824.0,6,0.05,134.4
+CA-2024-100158,2024-03-06,2024-03-11,Standard Class,Consumer,United States,Boston,Massachusetts,East,Technology,Phones,Samsung Galaxy S24,2971.5,5,0.3,-339.6
+CA-2024-100298,2024-03-08,2024-03-13,Standard Class,Corporate,United States,Seattle,Washington,West,Furniture,Bookcases,Bush Mission Oak 4-Shelf Bookcase,1360.0,5,0.15,-48.0
+CA-2024-100458,2024-03-09,2024-03-16,Standard Class,Corporate,United States,Boston,Massachusetts,East,Furniture,Tables,BPI Conference Room Table,4450.0,5,0.0,667.5
+CA-2024-100469,2024-03-09,2024-03-12,Second Class,Home Office,United States,Chicago,Illinois,Central,Technology,Copiers,Canon ImageCLASS Copier,1199.0,1,0.0,359.7
+CA-2024-100004,2024-03-12,2024-03-15,Second Class,Consumer,United States,Los Angeles,California,West,Technology,Copiers,Canon ImageCLASS Copier,9172.35,9,0.15,1618.65
+CA-2024-100281,2024-03-15,2024-03-18,Second Class,Home Office,United States,Seattle,Washington,West,Technology,Copiers,Canon ImageCLASS Copier,3836.8,4,0.2,479.6
+CA-2024-100462,2024-03-16,2024-03-19,Second Class,Corporate,United States,Chicago,Illinois,Central,Office Supplies,Paper,Hammermill Premium Multipurpose Paper 500ct,69.6,6,0.2,15.66
+CA-2024-100060,2024-03-21,2024-03-24,Second Class,Consumer,United States,Miami,Florida,South,Furniture,Bookcases,Bush Mission Oak 4-Shelf Bookcase,3200.0,10,0.0,384.0
+CA-2024-100203,2024-03-21,2024-03-26,Standard Class,Consumer,United States,Houston,Texas,Central,Furniture,Chairs,Herman Miller Ergonomic Task Chair,2762.5,5,0.15,162.5
+CA-2024-100103,2024-03-21,2024-03-22,Same Day,Consumer,United States,New York,New York,East,Office Supplies,Storage,Fellowes Heavy-Duty Storage Boxes 12pk,180.0,4,0.4,-45.0
+CA-2024-100156,2024-03-26,2024-03-29,Second Class,Home Office,United States,Detroit,Michigan,Central,Office Supplies,Storage,Fellowes Heavy-Duty Storage Boxes 12pk,120.0,2,0.2,7.5
+CA-2024-100465,2024-03-26,2024-03-31,Standard Class,Consumer,United States,Boston,Massachusetts,East,Technology,Phones,Apple iPhone 15 Pro,899.1,1,0.1,149.85
+CA-2024-100011,2024-03-28,2024-04-04,Standard Class,Consumer,United States,Houston,Texas,Central,Furniture,Chairs,Herman Miller Ergonomic Task Chair,4095.0,9,0.3,-585.0
+CA-2024-100453,2024-03-29,2024-04-01,Second Class,Consumer,United States,Boston,Massachusetts,East,Technology,Machines,HP LaserJet Pro Multifunction Printer,1215.0,3,0.1,108.0
+CA-2024-100048,2024-03-29,2024-04-03,Standard Class,Corporate,United States,Houston,Texas,Central,Furniture,Chairs,Herman Miller Ergonomic Task Chair,5525.0,10,0.15,325.0
+CA-2024-100056,2024-04-01,2024-04-08,Standard Class,Consumer,United States,Boston,Massachusetts,East,Office Supplies,Paper,Hammermill Premium Multipurpose Paper 500ct,41.32,3,0.05,14.35
+CA-2024-100388,2024-04-01,2024-04-04,Second Class,Home Office,United States,Boston,Massachusetts,East,Office Supplies,Paper,Hammermill Premium Multipurpose Paper 500ct,101.5,7,0.0,38.57
+CA-2024-100435,2024-04-01,2024-04-03,First Class,Consumer,United States,New York,New York,East,Technology,Phones,Samsung Galaxy S24,2886.6,4,0.15,237.72
+CA-2024-100471,2024-04-03,2024-04-06,Second Class,Consumer,United States,Philadelphia,Pennsylvania,East,Office Supplies,Paper,Hammermill Premium Multipurpose Paper 500ct,13.77,1,0.05,4.78
+CA-2024-100342,2024-04-04,2024-04-07,Second Class,Home Office,United States,Boston,Massachusetts,East,Office Supplies,Appliances,Krups 12-Cup Programmable Coffee Maker,153.0,3,0.4,-30.6
+CA-2024-100449,2024-04-05,2024-04-08,Second Class,Corporate,United States,San Francisco,California,West,Office Supplies,Storage,Fellowes Heavy-Duty Storage Boxes 12pk,375.0,5,0.0,93.75
+CA-2024-100143,2024-04-05,2024-04-12,Standard Class,Home Office,United States,San Francisco,California,West,Office Supplies,Appliances,Krups 12-Cup Programmable Coffee Maker,765.0,9,0.0,214.2
+CA-2024-100192,2024-04-05,2024-04-10,Standard Class,Consumer,United States,Seattle,Washington,West,Office Supplies,Art,Prismacolor Premier Colored Pencils 72ct,520.0,10,0.0,182.0
+CA-2024-100493,2024-04-05,2024-04-08,Second Class,Home Office,United States,Charlotte,North Carolina,South,Furniture,Bookcases,Bush Mission Oak 4-Shelf Bookcase,512.0,2,0.2,-51.2
+CA-2024-100233,2024-04-06,2024-04-08,First Class,Home Office,United States,Los Angeles,California,West,Office Supplies,Paper,Hammermill Premium Multipurpose Paper 500ct,14.5,1,0.0,5.51
+CA-2024-100320,2024-04-06,2024-04-13,Standard Class,Corporate,United States,Seattle,Washington,West,Furniture,Furnishings,Deflecto Executive Desk Pad,40.5,1,0.1,13.5
+CA-2024-100229,2024-04-07,2024-04-10,Second Class,Home Office,United States,Miami,Florida,South,Technology,Phones,Apple iPhone 15 Pro,1998.0,2,0.0,499.5
+CA-2024-100288,2024-04-08,2024-04-11,Second Class,Corporate,United States,Houston,Texas,Central,Office Supplies,Envelopes,Quality Park Security Envelopes 500ct,140.8,8,0.2,38.72
+CA-2024-100271,2024-04-08,2024-04-11,Second Class,Consumer,United States,Philadelphia,Pennsylvania,East,Furniture,Bookcases,Bush Mission Oak 4-Shelf Bookcase,1920.0,6,0.0,230.4
+CA-2024-100256,2024-04-08,2024-04-13,Standard Class,Consumer,United States,Detroit,Michigan,Central,Furniture,Tables,BPI Conference Room Table,3382.0,4,0.05,356.0
+CA-2024-100343,2024-04-08,2024-04-10,First Class,Corporate,United States,Atlanta,Georgia,South,Office Supplies,Binders,GBC Heavy-Duty Binder 3-Inch,224.0,8,0.0,100.8
+CA-2024-100119,2024-04-08,2024-04-11,Second Class,Consumer,United States,San Francisco,California,West,Technology,Copiers,Canon ImageCLASS Copier,1199.0,1,0.0,359.7
+CA-2024-100335,2024-04-08,2024-04-11,Second Class,Consumer,United States,Philadelphia,Pennsylvania,East,Furniture,Chairs,Herman Miller Ergonomic Task Chair,2600.0,4,0.0,520.0
+CA-2024-100012,2024-04-09,2024-04-16,Standard Class,Consumer,United States,Miami,Florida,South,Office Supplies,Paper,Hammermill Premium Multipurpose Paper 500ct,91.35,7,0.1,28.42
+CA-2024-100477,2024-04-09,2024-04-11,First Class,Consumer,United States,Los Angeles,California,West,Office Supplies,Storage,Fellowes Heavy-Duty Storage Boxes 12pk,225.0,3,0.0,56.25
+CA-2024-100487,2024-04-09,2024-04-11,First Class,Home Office,United States,Seattle,Washington,West,Furniture,Bookcases,Bush Mission Oak 4-Shelf Bookcase,2880.0,9,0.0,345.6
+CA-2024-100410,2024-04-10,2024-04-13,Second Class,Consumer,United States,Seattle,Washington,West,Technology,Accessories,Logitech MX Master 3S Mouse,792.0,8,0.0,277.2
+CA-2024-100201,2024-04-10,2024-04-12,First Class,Corporate,United States,Los Angeles,California,West,Office Supplies,Appliances,Krups 12-Cup Programmable Coffee Maker,425.0,5,0.0,119.0
+CA-2024-100125,2024-04-10,2024-04-13,Second Class,Consumer,United States,Houston,Texas,Central,Office Supplies,Art,Prismacolor Premier Colored Pencils 72ct,291.2,8,0.3,20.8
+CA-2024-100416,2024-04-12,2024-04-17,Standard Class,Home Office,United States,Houston,Texas,Central,Office Supplies,Art,Prismacolor Premier Colored Pencils 72ct,364.0,10,0.3,26.0
+CA-2024-100000,2024-04-12,2024-04-15,Second Class,Consumer,United States,Miami,Florida,South,Office Supplies,Appliances,Krups 12-Cup Programmable Coffee Maker,505.75,7,0.15,77.35
+CA-2024-100007,2024-04-12,2024-04-15,Second Class,Corporate,United States,Houston,Texas,Central,Office Supplies,Appliances,Krups 12-Cup Programmable Coffee Maker,255.0,3,0.0,71.4
+CA-2024-100368,2024-04-13,2024-04-18,Standard Class,Home Office,United States,Boston,Massachusetts,East,Furniture,Furnishings,Deflecto Executive Desk Pad,360.0,10,0.2,90.0
+CA-2024-100283,2024-04-13,2024-04-15,First Class,Consumer,United States,Atlanta,Georgia,South,Technology,Machines,HP LaserJet Pro Multifunction Printer,1890.0,7,0.4,-693.0
+CA-2024-100065,2024-04-15,2024-04-20,Standard Class,Home Office,United States,Los Angeles,California,West,Office Supplies,Paper,Hammermill Premium Multipurpose Paper 500ct,130.5,9,0.0,49.59
+CA-2024-100428,2024-04-15,2024-04-18,Second Class,Consumer,United States,Detroit,Michigan,Central,Office Supplies,Storage,Fellowes Heavy-Duty Storage Boxes 12pk,750.0,10,0.0,187.5
+CA-2024-100003,2024-04-16,2024-04-23,Standard Class,Corporate,United States,Philadelphia,Pennsylvania,East,Office Supplies,Storage,Fellowes Heavy-Duty Storage Boxes 12pk,675.0,9,0.0,168.75
+CA-2024-100165,2024-04-17,2024-04-20,Second Class,Corporate,United States,Philadelphia,Pennsylvania,East,Furniture,Chairs,Herman Miller Ergonomic Task Chair,5525.0,10,0.15,325.0
+CA-2024-100414,2024-04-17,2024-04-22,Standard Class,Consumer,United States,Los Angeles,California,West,Technology,Machines,HP LaserJet Pro Multifunction Printer,810.0,2,0.1,72.0
+CA-2024-100287,2024-04-21,2024-04-23,First Class,Corporate,United States,Los Angeles,California,West,Furniture,Tables,BPI Conference Room Table,3560.0,5,0.2,-222.5
+CA-2024-100261,2024-04-21,2024-04-22,Same Day,Consumer,United States,Charlotte,North Carolina,South,Furniture,Bookcases,Bush Mission Oak 4-Shelf Bookcase,2592.0,9,0.1,57.6
+CA-2024-100202,2024-04-22,2024-04-23,Same Day,Consumer,United States,Los Angeles,California,West,Office Supplies,Appliances,Krups 12-Cup Programmable Coffee Maker,612.0,8,0.1,122.4
+CA-2024-100282,2024-04-22,2024-04-24,First Class,Consumer,United States,Boston,Massachusetts,East,Office Supplies,Paper,Hammermill Premium Multipurpose Paper 500ct,86.27,7,0.15,23.34
+CA-2024-100195,2024-04-22,2024-04-25,Second Class,Home Office,United States,Miami,Florida,South,Furniture,Furnishings,Deflecto Executive Desk Pad,38.25,1,0.15,11.25
+CA-2024-100205,2024-04-22,2024-04-27,Standard Class,Home Office,United States,Seattle,Washington,West,Furniture,Chairs,Herman Miller Ergonomic Task Chair,4550.0,7,0.0,910.0
+CA-2024-100200,2024-04-22,2024-04-25,Second Class,Consumer,United States,Boston,Massachusetts,East,Technology,Copiers,Canon ImageCLASS Copier,4556.2,4,0.05,1199.0
+CA-2024-100361,2024-04-23,2024-04-28,Standard Class,Consumer,United States,Philadelphia,Pennsylvania,East,Technology,Phones,Samsung Galaxy S24,4032.75,5,0.05,721.65
+CA-2024-100177,2024-04-25,2024-05-02,Standard Class,Consumer,United States,Detroit,Michigan,Central,Office Supplies,Envelopes,Quality Park Security Envelopes 500ct,37.4,2,0.15,11.88
+CA-2024-100345,2024-04-25,2024-04-28,Second Class,Corporate,United States,Miami,Florida,South,Office Supplies,Storage,Fellowes Heavy-Duty Storage Boxes 12pk,600.0,8,0.0,150.0
+CA-2024-100280,2024-04-25,2024-04-28,Second Class,Consumer,United States,Philadelphia,Pennsylvania,East,Office Supplies,Appliances,Krups 12-Cup Programmable Coffee Maker,382.5,5,0.1,76.5
+CA-2024-100439,2024-04-26,2024-04-27,Same Day,Corporate,United States,Boston,Massachusetts,East,Office Supplies,Binders,GBC Heavy-Duty Binder 3-Inch,89.6,4,0.2,28.0
+CA-2024-100451,2024-04-27,2024-05-04,Standard Class,Corporate,United States,Detroit,Michigan,Central,Furniture,Bookcases,Bush Mission Oak 4-Shelf Bookcase,1920.0,6,0.0,230.4
+CA-2024-100432,2024-04-29,2024-05-02,Second Class,Consumer,United States,Seattle,Washington,West,Furniture,Furnishings,Deflecto Executive Desk Pad,45.0,1,0.0,18.0
+CA-2024-100278,2024-04-29,2024-05-02,Second Class,Consumer,United States,Chicago,Illinois,Central,Office Supplies,Art,Prismacolor Premier Colored Pencils 72ct,468.0,9,0.0,163.8
+CA-2024-100176,2024-04-30,2024-05-07,Standard Class,Corporate,United States,Los Angeles,California,West,Furniture,Chairs,Herman Miller Ergonomic Task Chair,1300.0,2,0.0,260.0
+CA-2024-100008,2024-05-01,2024-05-04,Second Class,Consumer,United States,Detroit,Michigan,Central,Office Supplies,Storage,Fellowes Heavy-Duty Storage Boxes 12pk,510.0,8,0.15,60.0
+CA-2024-100445,2024-05-01,2024-05-06,Standard Class,Consumer,United States,Charlotte,North Carolina,South,Office Supplies,Binders,GBC Heavy-Duty Binder 3-Inch,176.4,7,0.1,68.6
+CA-2024-100224,2024-05-02,2024-05-04,First Class,Home Office,United States,Los Angeles,California,West,Technology,Accessories,Logitech MX Master 3S Mouse,594.0,6,0.0,207.9
+CA-2024-100235,2024-05-03,2024-05-05,First Class,Home Office,United States,Chicago,Illinois,Central,Office Supplies,Paper,Hammermill Premium Multipurpose Paper 500ct,10.15,1,0.3,1.16
+CA-2024-100427,2024-05-03,2024-05-05,First Class,Corporate,United States,Seattle,Washington,West,Furniture,Chairs,Herman Miller Ergonomic Task Chair,4095.0,9,0.3,-585.0
+CA-2024-100399,2024-05-04,2024-05-06,First Class,Corporate,United States,Charlotte,North Carolina,South,Technology,Machines,HP LaserJet Pro Multifunction Printer,1147.5,3,0.15,40.5
+CA-2024-100450,2024-05-05,2024-05-10,Standard Class,Home Office,United States,Houston,Texas,Central,Furniture,Chairs,Herman Miller Ergonomic Task Chair,4550.0,7,0.0,910.0
+CA-2024-100213,2024-05-05,2024-05-12,Standard Class,Consumer,United States,Houston,Texas,Central,Office Supplies,Art,Prismacolor Premier Colored Pencils 72ct,468.0,9,0.0,163.8
+CA-2024-100365,2024-05-06,2024-05-13,Standard Class,Home Office,United States,Boston,Massachusetts,East,Technology,Machines,HP LaserJet Pro Multifunction Printer,3847.5,9,0.05,526.5
+CA-2024-100442,2024-05-06,2024-05-09,Second Class,Consumer,United States,Philadelphia,Pennsylvania,East,Office Supplies,Paper,Hammermill Premium Multipurpose Paper 500ct,145.0,10,0.0,55.1
+CA-2024-100351,2024-05-07,2024-05-10,Second Class,Corporate,United States,Houston,Texas,Central,Furniture,Bookcases,Bush Mission Oak 4-Shelf Bookcase,1824.0,6,0.05,134.4
+CA-2024-100304,2024-05-07,2024-05-10,Second Class,Consumer,United States,Los Angeles,California,West,Office Supplies,Storage,Fellowes Heavy-Duty Storage Boxes 12pk,675.0,9,0.0,168.75
+CA-2024-100248,2024-05-07,2024-05-08,Same Day,Home Office,United States,Seattle,Washington,West,Furniture,Tables,BPI Conference Room Table,5340.0,6,0.0,801.0
+CA-2024-100170,2024-05-07,2024-05-10,Second Class,Consumer,United States,New York,New York,East,Furniture,Chairs,Herman Miller Ergonomic Task Chair,3900.0,10,0.4,-1300.0
+CA-2024-100252,2024-05-08,2024-05-11,Second Class,Corporate,United States,Chicago,Illinois,Central,Furniture,Chairs,Herman Miller Ergonomic Task Chair,3705.0,6,0.05,585.0
+CA-2024-100099,2024-05-08,2024-05-10,First Class,Consumer,United States,New York,New York,East,Technology,Phones,Samsung Galaxy S24,5094.0,6,0.0,1120.68
+CA-2024-100443,2024-05-08,2024-05-13,Standard Class,Corporate,United States,Boston,Massachusetts,East,Furniture,Bookcases,Bush Mission Oak 4-Shelf Bookcase,2880.0,9,0.0,345.6
+CA-2024-100207,2024-05-09,2024-05-11,First Class,Corporate,United States,Chicago,Illinois,Central,Office Supplies,Paper,Hammermill Premium Multipurpose Paper 500ct,13.77,1,0.05,4.78
+CA-2024-100214,2024-05-09,2024-05-12,Second Class,Consumer,United States,Seattle,Washington,West,Technology,Phones,Apple iPhone 15 Pro,4745.25,5,0.05,999.0
+CA-2024-100015,2024-05-10,2024-05-12,First Class,Consumer,United States,Miami,Florida,South,Technology,Phones,Samsung Galaxy S24,5094.0,6,0.0,1120.68
+CA-2024-100275,2024-05-10,2024-05-15,Standard Class,Corporate,United States,Detroit,Michigan,Central,Office Supplies,Binders,GBC Heavy-Duty Binder 3-Inch,252.0,10,0.1,98.0
+CA-2024-100126,2024-05-10,2024-05-15,Standard Class,Corporate,United States,New York,New York,East,Furniture,Tables,BPI Conference Room Table,4361.0,7,0.3,-934.5
+CA-2024-100041,2024-05-10,2024-05-15,Standard Class,Consumer,United States,Seattle,Washington,West,Technology,Copiers,Canon ImageCLASS Copier,2158.2,2,0.1,479.6
+CA-2024-100162,2024-05-13,2024-05-18,Standard Class,Corporate,United States,Atlanta,Georgia,South,Technology,Phones,Apple iPhone 15 Pro,999.0,1,0.0,249.75
+CA-2024-100043,2024-05-14,2024-05-19,Standard Class,Consumer,United States,San Francisco,California,West,Office Supplies,Paper,Hammermill Premium Multipurpose Paper 500ct,101.5,7,0.0,38.57
+CA-2024-100302,2024-05-14,2024-05-17,Second Class,Home Office,United States,Seattle,Washington,West,Furniture,Bookcases,Bush Mission Oak 4-Shelf Bookcase,2880.0,10,0.1,64.0
+CA-2024-100110,2024-05-14,2024-05-17,Second Class,Consumer,United States,Boston,Massachusetts,East,Office Supplies,Appliances,Krups 12-Cup Programmable Coffee Maker,340.0,5,0.2,34.0
+CA-2024-100100,2024-05-15,2024-05-18,Second Class,Consumer,United States,Miami,Florida,South,Technology,Machines,HP LaserJet Pro Multifunction Printer,1620.0,4,0.1,144.0
+CA-2024-100182,2024-05-16,2024-05-18,First Class,Corporate,United States,Houston,Texas,Central,Office Supplies,Paper,Hammermill Premium Multipurpose Paper 500ct,73.95,6,0.15,20.01
+CA-2024-100102,2024-05-18,2024-05-21,Second Class,Consumer,United States,Houston,Texas,Central,Furniture,Chairs,Herman Miller Ergonomic Task Chair,552.5,1,0.15,32.5
+CA-2024-100266,2024-05-19,2024-05-21,First Class,Home Office,United States,New York,New York,East,Furniture,Bookcases,Bush Mission Oak 4-Shelf Bookcase,1632.0,6,0.15,-57.6
+CA-2024-100386,2024-05-21,2024-05-24,Second Class,Corporate,United States,Detroit,Michigan,Central,Furniture,Furnishings,Deflecto Executive Desk Pad,63.0,2,0.3,9.0
+CA-2024-100147,2024-05-22,2024-05-25,Second Class,Home Office,United States,Philadelphia,Pennsylvania,East,Office Supplies,Paper,Hammermill Premium Multipurpose Paper 500ct,52.2,6,0.4,-1.74
+CA-2024-100387,2024-05-22,2024-05-27,Standard Class,Corporate,United States,Chicago,Illinois,Central,Furniture,Bookcases,Bush Mission Oak 4-Shelf Bookcase,2560.0,8,0.0,307.2
+CA-2024-100425,2024-05-23,2024-05-28,Standard Class,Corporate,United States,New York,New York,East,Furniture,Bookcases,Bush Mission Oak 4-Shelf Bookcase,2880.0,9,0.0,345.6
+CA-2024-100464,2024-05-23,2024-05-26,Second Class,Consumer,United States,San Francisco,California,West,Office Supplies,Storage,Fellowes Heavy-Duty Storage Boxes 12pk,600.0,8,0.0,150.0
+CA-2024-100232,2024-05-23,2024-05-25,First Class,Consumer,United States,Los Angeles,California,West,Office Supplies,Envelopes,Quality Park Security Envelopes 500ct,154.0,7,0.0,64.68
+CA-2024-100259,2024-05-23,2024-05-28,Standard Class,Corporate,United States,Los Angeles,California,West,Furniture,Chairs,Herman Miller Ergonomic Task Chair,5850.0,9,0.0,1170.0
+CA-2024-100431,2024-05-24,2024-05-27,Second Class,Consumer,United States,Chicago,Illinois,Central,Furniture,Chairs,Herman Miller Ergonomic Task Chair,1657.5,3,0.15,97.5
+CA-2024-100492,2024-05-26,2024-06-02,Standard Class,Consumer,United States,Boston,Massachusetts,East,Furniture,Tables,BPI Conference Room Table,3782.5,5,0.15,0.0
+CA-2024-100430,2024-05-26,2024-06-02,Standard Class,Consumer,United States,Miami,Florida,South,Office Supplies,Paper,Hammermill Premium Multipurpose Paper 500ct,30.45,3,0.3,3.48
+CA-2024-100272,2024-05-26,2024-05-31,Standard Class,Consumer,United States,Los Angeles,California,West,Furniture,Furnishings,Deflecto Executive Desk Pad,405.0,9,0.0,162.0
+CA-2024-100243,2024-05-26,2024-05-28,First Class,Corporate,United States,Boston,Massachusetts,East,Furniture,Tables,BPI Conference Room Table,7609.5,9,0.05,801.0
+CA-2024-100324,2024-05-26,2024-05-31,Standard Class,Corporate,United States,Houston,Texas,Central,Technology,Phones,Samsung Galaxy S24,3396.0,4,0.0,747.12
+CA-2024-100244,2024-05-27,2024-05-28,Same Day,Consumer,United States,Charlotte,North Carolina,South,Furniture,Chairs,Herman Miller Ergonomic Task Chair,1560.0,3,0.2,0.0
+CA-2024-100240,2024-05-27,2024-05-30,Second Class,Consumer,United States,San Francisco,California,West,Furniture,Chairs,Herman Miller Ergonomic Task Chair,4420.0,8,0.15,260.0
+CA-2024-100400,2024-05-29,2024-06-03,Standard Class,Consumer,United States,Detroit,Michigan,Central,Furniture,Furnishings,Deflecto Executive Desk Pad,405.0,9,0.0,162.0
+CA-2024-100016,2024-05-29,2024-05-30,Same Day,Consumer,United States,New York,New York,East,Office Supplies,Storage,Fellowes Heavy-Duty Storage Boxes 12pk,750.0,10,0.0,187.5
+CA-2024-100364,2024-05-30,2024-06-04,Standard Class,Consumer,United States,Boston,Massachusetts,East,Office Supplies,Binders,GBC Heavy-Duty Binder 3-Inch,71.4,3,0.15,25.2
+CA-2024-100254,2024-05-30,2024-06-04,Standard Class,Consumer,United States,Los Angeles,California,West,Office Supplies,Storage,Fellowes Heavy-Duty Storage Boxes 12pk,225.0,3,0.0,56.25
+CA-2024-100189,2024-05-31,2024-06-03,Second Class,Home Office,United States,Atlanta,Georgia,South,Furniture,Bookcases,Bush Mission Oak 4-Shelf Bookcase,1824.0,6,0.05,134.4
+CA-2024-100276,2024-05-31,2024-06-05,Standard Class,Consumer,United States,Los Angeles,California,West,Office Supplies,Appliances,Krups 12-Cup Programmable Coffee Maker,204.0,3,0.2,20.4
+CA-2024-100014,2024-05-31,2024-06-01,Same Day,Home Office,United States,New York,New York,East,Office Supplies,Envelopes,Quality Park Security Envelopes 500ct,105.6,8,0.4,3.52
+CA-2024-100289,2024-06-01,2024-06-03,First Class,Consumer,United States,Philadelphia,Pennsylvania,East,Furniture,Furnishings,Deflecto Executive Desk Pad,256.5,6,0.05,94.5
+CA-2024-100395,2024-06-01,2024-06-03,First Class,Corporate,United States,Seattle,Washington,West,Furniture,Bookcases,Bush Mission Oak 4-Shelf Bookcase,2736.0,9,0.05,201.6
+CA-2024-100463,2024-06-02,2024-06-03,Same Day,Consumer,United States,Chicago,Illinois,Central,Furniture,Bookcases,Bush Mission Oak 4-Shelf Bookcase,320.0,1,0.0,38.4
+CA-2024-100366,2024-06-03,2024-06-05,First Class,Consumer,United States,New York,New York,East,Technology,Copiers,Canon ImageCLASS Copier,1019.15,1,0.15,179.85
+CA-2024-100091,2024-06-05,2024-06-12,Standard Class,Consumer,United States,Houston,Texas,Central,Furniture,Bookcases,Bush Mission Oak 4-Shelf Bookcase,3200.0,10,0.0,384.0
+CA-2024-100309,2024-06-06,2024-06-08,First Class,Consumer,United States,Charlotte,North Carolina,South,Office Supplies,Storage,Fellowes Heavy-Duty Storage Boxes 12pk,225.0,5,0.4,-56.25
+CA-2024-100332,2024-06-06,2024-06-08,First Class,Consumer,United States,San Francisco,California,West,Office Supplies,Binders,GBC Heavy-Duty Binder 3-Inch,84.0,3,0.0,37.8
+CA-2024-100429,2024-06-06,2024-06-08,First Class,Consumer,United States,Houston,Texas,Central,Technology,Phones,Samsung Galaxy S24,6494.85,9,0.15,534.87
+CA-2024-100268,2024-06-08,2024-06-11,Second Class,Corporate,United States,Miami,Florida,South,Technology,Copiers,Canon ImageCLASS Copier,9592.0,10,0.2,1199.0
+CA-2024-100152,2024-06-08,2024-06-13,Standard Class,Home Office,United States,San Francisco,California,West,Technology,Phones,Samsung Galaxy S24,4245.0,5,0.0,933.9
+CA-2024-100191,2024-06-08,2024-06-10,First Class,Consumer,United States,Chicago,Illinois,Central,Office Supplies,Envelopes,Quality Park Security Envelopes 500ct,35.2,2,0.2,9.68
+CA-2024-100218,2024-06-08,2024-06-11,Second Class,Consumer,United States,Miami,Florida,South,Office Supplies,Appliances,Krups 12-Cup Programmable Coffee Maker,170.0,2,0.0,47.6
+CA-2024-100348,2024-06-09,2024-06-11,First Class,Consumer,United States,Los Angeles,California,West,Furniture,Furnishings,Deflecto Executive Desk Pad,180.0,4,0.0,72.0
+CA-2024-100279,2024-06-09,2024-06-11,First Class,Corporate,United States,Atlanta,Georgia,South,Technology,Accessories,Logitech MX Master 3S Mouse,94.05,1,0.05,29.7
+CA-2024-100297,2024-06-09,2024-06-12,Second Class,Corporate,United States,Philadelphia,Pennsylvania,East,Furniture,Furnishings,Deflecto Executive Desk Pad,27.0,1,0.4,0.0
+CA-2024-100023,2024-06-09,2024-06-14,Standard Class,Consumer,United States,San Francisco,California,West,Office Supplies,Binders,GBC Heavy-Duty Binder 3-Inch,50.4,2,0.1,19.6
+CA-2024-100071,2024-06-10,2024-06-13,Second Class,Consumer,United States,Philadelphia,Pennsylvania,East,Technology,Copiers,Canon ImageCLASS Copier,6714.4,7,0.2,839.3
+CA-2024-100104,2024-06-11,2024-06-13,First Class,Corporate,United States,Chicago,Illinois,Central,Furniture,Bookcases,Bush Mission Oak 4-Shelf Bookcase,2560.0,8,0.0,307.2
+CA-2024-100294,2024-06-11,2024-06-14,Second Class,Home Office,United States,Houston,Texas,Central,Technology,Accessories,Logitech MX Master 3S Mouse,277.2,4,0.3,19.8
+CA-2024-100184,2024-06-13,2024-06-15,First Class,Consumer,United States,Seattle,Washington,West,Office Supplies,Paper,Hammermill Premium Multipurpose Paper 500ct,10.15,1,0.3,1.16
+CA-2024-100046,2024-06-15,2024-06-22,Standard Class,Consumer,United States,Boston,Massachusetts,East,Office Supplies,Binders,GBC Heavy-Duty Binder 3-Inch,100.8,4,0.1,39.2
+CA-2024-100296,2024-06-17,2024-06-20,Second Class,Home Office,United States,Los Angeles,California,West,Furniture,Bookcases,Bush Mission Oak 4-Shelf Bookcase,864.0,3,0.1,19.2
+CA-2024-100159,2024-06-18,2024-06-19,Same Day,Corporate,United States,Boston,Massachusetts,East,Office Supplies,Art,Prismacolor Premier Colored Pencils 72ct,124.8,3,0.2,23.4
+CA-2024-100373,2024-06-18,2024-06-20,First Class,Home Office,United States,Chicago,Illinois,Central,Furniture,Tables,BPI Conference Room Table,4806.0,6,0.1,267.0
+CA-2024-100031,2024-06-18,2024-06-20,First Class,Corporate,United States,Detroit,Michigan,Central,Furniture,Chairs,Herman Miller Ergonomic Task Chair,5200.0,8,0.0,1040.0
+CA-2024-100406,2024-06-18,2024-06-21,Second Class,Corporate,United States,Atlanta,Georgia,South,Furniture,Tables,BPI Conference Room Table,4005.0,5,0.1,222.5
+CA-2024-100148,2024-06-19,2024-06-24,Standard Class,Corporate,United States,Los Angeles,California,West,Office Supplies,Storage,Fellowes Heavy-Duty Storage Boxes 12pk,525.0,7,0.0,131.25
+CA-2024-100188,2024-06-20,2024-06-25,Standard Class,Corporate,United States,New York,New York,East,Furniture,Chairs,Herman Miller Ergonomic Task Chair,1170.0,2,0.1,130.0
+CA-2024-100120,2024-06-20,2024-06-27,Standard Class,Consumer,United States,Detroit,Michigan,Central,Furniture,Furnishings,Deflecto Executive Desk Pad,270.0,6,0.0,108.0
+CA-2024-100330,2024-06-20,2024-06-23,Second Class,Home Office,United States,Miami,Florida,South,Office Supplies,Storage,Fellowes Heavy-Duty Storage Boxes 12pk,600.0,8,0.0,150.0
+CA-2024-100216,2024-06-20,2024-06-25,Standard Class,Consumer,United States,Boston,Massachusetts,East,Technology,Copiers,Canon ImageCLASS Copier,1019.15,1,0.15,179.85
+CA-2024-100382,2024-06-21,2024-06-26,Standard Class,Consumer,United States,Boston,Massachusetts,East,Office Supplies,Envelopes,Quality Park Security Envelopes 500ct,187.0,10,0.15,59.4
+CA-2024-100359,2024-06-22,2024-06-25,Second Class,Corporate,United States,Philadelphia,Pennsylvania,East,Furniture,Tables,BPI Conference Room Table,4984.0,7,0.2,-311.5
+CA-2024-100035,2024-06-23,2024-06-30,Standard Class,Corporate,United States,Boston,Massachusetts,East,Office Supplies,Appliances,Krups 12-Cup Programmable Coffee Maker,242.25,3,0.05,58.65
+CA-2024-100371,2024-06-24,2024-06-26,First Class,Consumer,United States,Seattle,Washington,West,Office Supplies,Appliances,Krups 12-Cup Programmable Coffee Maker,425.0,5,0.0,119.0
+CA-2024-100306,2024-06-24,2024-07-01,Standard Class,Consumer,United States,Seattle,Washington,West,Office Supplies,Paper,Hammermill Premium Multipurpose Paper 500ct,130.5,9,0.0,49.59
+CA-2024-100137,2024-06-27,2024-06-29,First Class,Consumer,United States,Boston,Massachusetts,East,Technology,Accessories,Logitech MX Master 3S Mouse,534.6,6,0.1,148.5
+CA-2024-100405,2024-06-28,2024-06-30,First Class,Consumer,United States,Los Angeles,California,West,Office Supplies,Storage,Fellowes Heavy-Duty Storage Boxes 12pk,75.0,1,0.0,18.75
+CA-2024-100489,2024-06-28,2024-06-30,First Class,Corporate,United States,Atlanta,Georgia,South,Technology,Machines,HP LaserJet Pro Multifunction Printer,1350.0,3,0.0,243.0
+CA-2024-100194,2024-06-28,2024-07-03,Standard Class,Consumer,United States,Houston,Texas,Central,Technology,Copiers,Canon ImageCLASS Copier,7194.0,6,0.0,2158.2
+CA-2024-100341,2024-06-29,2024-07-01,First Class,Home Office,United States,Boston,Massachusetts,East,Office Supplies,Paper,Hammermill Premium Multipurpose Paper 500ct,55.1,4,0.05,19.14
+CA-2024-100223,2024-07-02,2024-07-05,Second Class,Consumer,United States,Los Angeles,California,West,Technology,Phones,Samsung Galaxy S24,5943.0,7,0.0,1307.46
+CA-2024-100466,2024-07-03,2024-07-04,Same Day,Consumer,United States,Boston,Massachusetts,East,Office Supplies,Envelopes,Quality Park Security Envelopes 500ct,17.6,1,0.2,4.84
+CA-2024-100396,2024-07-04,2024-07-11,Standard Class,Consumer,United States,Philadelphia,Pennsylvania,East,Furniture,Furnishings,Deflecto Executive Desk Pad,225.0,5,0.0,90.0
+CA-2024-100204,2024-07-05,2024-07-08,Second Class,Corporate,United States,Atlanta,Georgia,South,Technology,Phones,Samsung Galaxy S24,2716.8,4,0.2,67.92
+CA-2024-100154,2024-07-05,2024-07-10,Standard Class,Consumer,United States,Detroit,Michigan,Central,Office Supplies,Paper,Hammermill Premium Multipurpose Paper 500ct,110.92,9,0.15,30.01
+CA-2024-100236,2024-07-05,2024-07-08,Second Class,Corporate,United States,Charlotte,North Carolina,South,Furniture,Chairs,Herman Miller Ergonomic Task Chair,585.0,1,0.1,65.0
+CA-2024-100344,2024-07-06,2024-07-09,Second Class,Consumer,United States,San Francisco,California,West,Office Supplies,Appliances,Krups 12-Cup Programmable Coffee Maker,680.0,8,0.0,190.4
+CA-2024-100032,2024-07-06,2024-07-08,First Class,Consumer,United States,New York,New York,East,Furniture,Bookcases,Bush Mission Oak 4-Shelf Bookcase,320.0,1,0.0,38.4
+CA-2024-100089,2024-07-06,2024-07-11,Standard Class,Consumer,United States,Atlanta,Georgia,South,Office Supplies,Appliances,Krups 12-Cup Programmable Coffee Maker,433.5,6,0.15,66.3
+CA-2024-100456,2024-07-07,2024-07-12,Standard Class,Home Office,United States,Houston,Texas,Central,Technology,Copiers,Canon ImageCLASS Copier,6834.3,6,0.05,1798.5
+CA-2024-100005,2024-07-07,2024-07-10,Second Class,Corporate,United States,Miami,Florida,South,Furniture,Tables,BPI Conference Room Table,6230.0,7,0.0,934.5
+CA-2024-100079,2024-07-08,2024-07-09,Same Day,Consumer,United States,New York,New York,East,Office Supplies,Storage,Fellowes Heavy-Duty Storage Boxes 12pk,480.0,8,0.2,30.0
+CA-2024-100034,2024-07-08,2024-07-13,Standard Class,Consumer,United States,Los Angeles,California,West,Technology,Machines,HP LaserJet Pro Multifunction Printer,2700.0,6,0.0,486.0
+CA-2024-100398,2024-07-08,2024-07-11,Second Class,Consumer,United States,Boston,Massachusetts,East,Office Supplies,Binders,GBC Heavy-Duty Binder 3-Inch,100.8,6,0.4,8.4
+CA-2024-100173,2024-07-08,2024-07-09,Same Day,Consumer,United States,Houston,Texas,Central,Office Supplies,Envelopes,Quality Park Security Envelopes 500ct,158.4,8,0.1,56.32
+CA-2024-100346,2024-07-09,2024-07-10,Same Day,Consumer,United States,San Francisco,California,West,Office Supplies,Appliances,Krups 12-Cup Programmable Coffee Maker,850.0,10,0.0,238.0
+CA-2024-100068,2024-07-09,2024-07-12,Second Class,Corporate,United States,Philadelphia,Pennsylvania,East,Office Supplies,Envelopes,Quality Park Security Envelopes 500ct,79.2,4,0.1,28.16
+CA-2024-100327,2024-07-10,2024-07-12,First Class,Corporate,United States,Chicago,Illinois,Central,Office Supplies,Envelopes,Quality Park Security Envelopes 500ct,176.0,8,0.0,73.92
+CA-2024-100457,2024-07-10,2024-07-12,First Class,Corporate,United States,Philadelphia,Pennsylvania,East,Office Supplies,Art,Prismacolor Premier Colored Pencils 72ct,468.0,9,0.0,163.8
+CA-2024-100021,2024-07-10,2024-07-15,Standard Class,Corporate,United States,Los Angeles,California,West,Office Supplies,Appliances,Krups 12-Cup Programmable Coffee Maker,510.0,6,0.0,142.8
+CA-2024-100292,2024-07-12,2024-07-17,Standard Class,Corporate,United States,Houston,Texas,Central,Furniture,Tables,BPI Conference Room Table,1424.0,2,0.2,-89.0
+CA-2024-100303,2024-07-13,2024-07-16,Second Class,Home Office,United States,San Francisco,California,West,Office Supplies,Envelopes,Quality Park Security Envelopes 500ct,104.5,5,0.05,40.7
+CA-2024-100417,2024-07-14,2024-07-16,First Class,Corporate,United States,Miami,Florida,South,Furniture,Furnishings,Deflecto Executive Desk Pad,427.5,10,0.05,157.5
+CA-2024-100181,2024-07-16,2024-07-21,Standard Class,Consumer,United States,Boston,Massachusetts,East,Furniture,Bookcases,Bush Mission Oak 4-Shelf Bookcase,2560.0,8,0.0,307.2
+CA-2024-100219,2024-07-16,2024-07-21,Standard Class,Home Office,United States,Philadelphia,Pennsylvania,East,Furniture,Tables,BPI Conference Room Table,890.0,1,0.0,133.5
+CA-2024-100230,2024-07-16,2024-07-18,First Class,Consumer,United States,Philadelphia,Pennsylvania,East,Office Supplies,Envelopes,Quality Park Security Envelopes 500ct,118.8,6,0.1,42.24
+CA-2024-100246,2024-07-17,2024-07-19,First Class,Home Office,United States,Seattle,Washington,West,Office Supplies,Art,Prismacolor Premier Colored Pencils 72ct,397.8,9,0.15,93.6
+CA-2024-100234,2024-07-19,2024-07-21,First Class,Consumer,United States,Houston,Texas,Central,Office Supplies,Envelopes,Quality Park Security Envelopes 500ct,176.0,10,0.2,48.4
+CA-2024-100111,2024-07-19,2024-07-21,First Class,Corporate,United States,Atlanta,Georgia,South,Technology,Phones,Apple iPhone 15 Pro,6643.35,7,0.05,1398.6
+CA-2024-100072,2024-07-20,2024-07-25,Standard Class,Corporate,United States,Miami,Florida,South,Furniture,Bookcases,Bush Mission Oak 4-Shelf Bookcase,2560.0,10,0.2,-256.0
+CA-2024-100222,2024-07-21,2024-07-28,Standard Class,Corporate,United States,Houston,Texas,Central,Furniture,Bookcases,Bush Mission Oak 4-Shelf Bookcase,1280.0,4,0.0,153.6
+CA-2024-100473,2024-07-22,2024-07-27,Standard Class,Corporate,United States,Detroit,Michigan,Central,Office Supplies,Paper,Hammermill Premium Multipurpose Paper 500ct,58.0,4,0.0,22.04
+CA-2024-100059,2024-07-24,2024-07-27,Second Class,Corporate,United States,Los Angeles,California,West,Furniture,Bookcases,Bush Mission Oak 4-Shelf Bookcase,672.0,3,0.3,-172.8
+CA-2024-100133,2024-07-25,2024-08-01,Standard Class,Consumer,United States,Los Angeles,California,West,Technology,Phones,Apple iPhone 15 Pro,1898.1,2,0.05,399.6
+CA-2024-100082,2024-07-26,2024-07-31,Standard Class,Home Office,United States,Detroit,Michigan,Central,Technology,Phones,Apple iPhone 15 Pro,949.05,1,0.05,199.8
+CA-2024-100274,2024-07-26,2024-07-28,First Class,Consumer,United States,Seattle,Washington,West,Office Supplies,Appliances,Krups 12-Cup Programmable Coffee Maker,807.5,10,0.05,195.5
+CA-2024-100295,2024-07-26,2024-07-27,Same Day,Corporate,United States,New York,New York,East,Office Supplies,Envelopes,Quality Park Security Envelopes 500ct,220.0,10,0.0,92.4
+CA-2024-100081,2024-07-31,2024-08-01,Same Day,Consumer,United States,San Francisco,California,West,Office Supplies,Paper,Hammermill Premium Multipurpose Paper 500ct,58.0,4,0.0,22.04
+CA-2024-100122,2024-08-01,2024-08-04,Second Class,Consumer,United States,Detroit,Michigan,Central,Furniture,Furnishings,Deflecto Executive Desk Pad,382.5,10,0.15,112.5
+CA-2024-100009,2024-08-02,2024-08-09,Standard Class,Consumer,United States,Detroit,Michigan,Central,Furniture,Chairs,Herman Miller Ergonomic Task Chair,4940.0,8,0.05,780.0
+CA-2024-100077,2024-08-02,2024-08-05,Second Class,Home Office,United States,Seattle,Washington,West,Office Supplies,Art,Prismacolor Premier Colored Pencils 72ct,468.0,9,0.0,163.8
+CA-2024-100392,2024-08-02,2024-08-05,Second Class,Consumer,United States,New York,New York,East,Office Supplies,Paper,Hammermill Premium Multipurpose Paper 500ct,29.0,2,0.0,11.02
+CA-2024-100117,2024-08-03,2024-08-04,Same Day,Corporate,United States,Miami,Florida,South,Office Supplies,Storage,Fellowes Heavy-Duty Storage Boxes 12pk,191.25,3,0.15,22.5
+CA-2024-100087,2024-08-04,2024-08-07,Second Class,Corporate,United States,Houston,Texas,Central,Technology,Copiers,Canon ImageCLASS Copier,4796.0,4,0.0,1438.8
+CA-2024-100474,2024-08-05,2024-08-08,Second Class,Consumer,United States,New York,New York,East,Furniture,Bookcases,Bush Mission Oak 4-Shelf Bookcase,384.0,2,0.4,-179.2
+CA-2024-100069,2024-08-05,2024-08-06,Same Day,Consumer,United States,Miami,Florida,South,Furniture,Bookcases,Bush Mission Oak 4-Shelf Bookcase,2304.0,8,0.1,51.2
+CA-2024-100217,2024-08-05,2024-08-08,Second Class,Consumer,United States,Detroit,Michigan,Central,Furniture,Chairs,Herman Miller Ergonomic Task Chair,1235.0,2,0.05,195.0
+CA-2024-100129,2024-08-05,2024-08-08,Second Class,Corporate,United States,Seattle,Washington,West,Office Supplies,Art,Prismacolor Premier Colored Pencils 72ct,260.0,5,0.0,91.0
+CA-2024-100468,2024-08-07,2024-08-10,Second Class,Consumer,United States,Houston,Texas,Central,Furniture,Tables,BPI Conference Room Table,6052.0,8,0.15,0.0
+CA-2024-100331,2024-08-07,2024-08-10,Second Class,Corporate,United States,Atlanta,Georgia,South,Technology,Copiers,Canon ImageCLASS Copier,8393.0,7,0.0,2517.9
+CA-2024-100208,2024-08-07,2024-08-08,Same Day,Consumer,United States,Boston,Massachusetts,East,Office Supplies,Binders,GBC Heavy-Duty Binder 3-Inch,28.0,1,0.0,12.6
+CA-2024-100480,2024-08-09,2024-08-12,Second Class,Corporate,United States,Houston,Texas,Central,Technology,Copiers,Canon ImageCLASS Copier,959.2,1,0.2,119.9
+CA-2024-100144,2024-08-09,2024-08-16,Standard Class,Consumer,United States,Charlotte,North Carolina,South,Technology,Phones,Apple iPhone 15 Pro,6993.0,7,0.0,1748.25
+CA-2024-100354,2024-08-10,2024-08-15,Standard Class,Home Office,United States,Chicago,Illinois,Central,Technology,Accessories,Logitech MX Master 3S Mouse,693.0,7,0.0,242.55
+CA-2024-100490,2024-08-10,2024-08-13,Second Class,Consumer,United States,Philadelphia,Pennsylvania,East,Furniture,Chairs,Herman Miller Ergonomic Task Chair,5850.0,9,0.0,1170.0
+CA-2024-100211,2024-08-11,2024-08-14,Second Class,Consumer,United States,Houston,Texas,Central,Office Supplies,Art,Prismacolor Premier Colored Pencils 72ct,234.0,5,0.1,65.0
+CA-2024-100212,2024-08-12,2024-08-15,Second Class,Consumer,United States,Philadelphia,Pennsylvania,East,Furniture,Chairs,Herman Miller Ergonomic Task Chair,4322.5,7,0.05,682.5
+CA-2024-100185,2024-08-12,2024-08-19,Standard Class,Corporate,United States,Houston,Texas,Central,Office Supplies,Art,Prismacolor Premier Colored Pencils 72ct,468.0,9,0.0,163.8
+CA-2024-100174,2024-08-12,2024-08-17,Standard Class,Home Office,United States,Los Angeles,California,West,Office Supplies,Envelopes,Quality Park Security Envelopes 500ct,154.0,7,0.0,64.68
+CA-2024-100317,2024-08-13,2024-08-14,Same Day,Corporate,United States,Miami,Florida,South,Office Supplies,Appliances,Krups 12-Cup Programmable Coffee Maker,85.0,1,0.0,23.8
+CA-2024-100286,2024-08-14,2024-08-17,Second Class,Consumer,United States,Atlanta,Georgia,South,Technology,Phones,Apple iPhone 15 Pro,4995.0,5,0.0,1248.75
+CA-2024-100124,2024-08-14,2024-08-17,Second Class,Corporate,United States,San Francisco,California,West,Office Supplies,Art,Prismacolor Premier Colored Pencils 72ct,148.2,3,0.05,46.8
+CA-2024-100438,2024-08-16,2024-08-19,Second Class,Corporate,United States,Chicago,Illinois,Central,Office Supplies,Art,Prismacolor Premier Colored Pencils 72ct,156.0,3,0.0,54.6
+CA-2024-100311,2024-08-17,2024-08-19,First Class,Home Office,United States,Boston,Massachusetts,East,Office Supplies,Binders,GBC Heavy-Duty Binder 3-Inch,238.0,10,0.15,84.0
+CA-2024-100172,2024-08-18,2024-08-20,First Class,Home Office,United States,Seattle,Washington,West,Office Supplies,Binders,GBC Heavy-Duty Binder 3-Inch,238.0,10,0.15,84.0
+CA-2024-100107,2024-08-18,2024-08-23,Standard Class,Consumer,United States,Boston,Massachusetts,East,Office Supplies,Envelopes,Quality Park Security Envelopes 500ct,198.0,9,0.0,83.16
+CA-2024-100140,2024-08-18,2024-08-21,Second Class,Consumer,United States,Detroit,Michigan,Central,Furniture,Tables,BPI Conference Room Table,8900.0,10,0.0,1335.0
+CA-2024-100145,2024-08-18,2024-08-23,Standard Class,Consumer,United States,San Francisco,California,West,Technology,Phones,Samsung Galaxy S24,1613.1,2,0.05,288.66
+CA-2024-100336,2024-08-20,2024-08-23,Second Class,Corporate,United States,San Francisco,California,West,Technology,Copiers,Canon ImageCLASS Copier,8393.0,7,0.0,2517.9
+CA-2024-100178,2024-08-20,2024-08-23,Second Class,Consumer,United States,New York,New York,East,Technology,Phones,Samsung Galaxy S24,764.1,1,0.1,101.88
+CA-2024-100270,2024-08-20,2024-08-23,Second Class,Corporate,United States,Detroit,Michigan,Central,Technology,Phones,Samsung Galaxy S24,8065.5,10,0.05,1443.3
+CA-2024-100193,2024-08-20,2024-08-23,Second Class,Home Office,United States,New York,New York,East,Furniture,Furnishings,Deflecto Executive Desk Pad,256.5,6,0.05,94.5
+CA-2024-100187,2024-08-21,2024-08-23,First Class,Consumer,United States,Los Angeles,California,West,Furniture,Chairs,Herman Miller Ergonomic Task Chair,1105.0,2,0.15,65.0
+CA-2024-100027,2024-08-23,2024-08-26,Second Class,Consumer,United States,Charlotte,North Carolina,South,Technology,Copiers,Canon ImageCLASS Copier,10791.0,10,0.1,2398.0
+CA-2024-100083,2024-08-24,2024-08-29,Standard Class,Consumer,United States,Boston,Massachusetts,East,Technology,Machines,HP LaserJet Pro Multifunction Printer,2205.0,7,0.3,-378.0
+CA-2024-100146,2024-08-24,2024-08-27,Second Class,Corporate,United States,Los Angeles,California,West,Furniture,Furnishings,Deflecto Executive Desk Pad,90.0,2,0.0,36.0
+CA-2024-100454,2024-08-24,2024-08-26,First Class,Corporate,United States,New York,New York,East,Furniture,Furnishings,Deflecto Executive Desk Pad,315.0,7,0.0,126.0
+CA-2024-100472,2024-08-25,2024-08-28,Second Class,Corporate,United States,Charlotte,North Carolina,South,Furniture,Tables,BPI Conference Room Table,6230.0,10,0.3,-1335.0
+CA-2024-100308,2024-08-25,2024-08-27,First Class,Corporate,United States,Seattle,Washington,West,Technology,Phones,Samsung Galaxy S24,5348.7,7,0.1,713.16
+CA-2024-100447,2024-08-26,2024-08-29,Second Class,Consumer,United States,Los Angeles,California,West,Technology,Accessories,Logitech MX Master 3S Mouse,792.0,8,0.0,277.2
+CA-2024-100231,2024-08-27,2024-08-28,Same Day,Corporate,United States,Detroit,Michigan,Central,Furniture,Chairs,Herman Miller Ergonomic Task Chair,617.5,1,0.05,97.5
+CA-2024-100141,2024-08-28,2024-08-31,Second Class,Home Office,United States,Los Angeles,California,West,Technology,Phones,Samsung Galaxy S24,2547.0,5,0.4,-764.1
+CA-2024-100051,2024-08-29,2024-09-01,Second Class,Corporate,United States,Charlotte,North Carolina,South,Furniture,Furnishings,Deflecto Executive Desk Pad,85.5,2,0.05,31.5
+CA-2024-100155,2024-08-30,2024-09-02,Second Class,Consumer,United States,Houston,Texas,Central,Office Supplies,Art,Prismacolor Premier Colored Pencils 72ct,444.6,9,0.05,140.4
+CA-2024-100039,2024-08-31,2024-09-03,Second Class,Corporate,United States,San Francisco,California,West,Office Supplies,Art,Prismacolor Premier Colored Pencils 72ct,62.4,2,0.4,-5.2
+CA-2024-100485,2024-09-02,2024-09-03,Same Day,Consumer,United States,Los Angeles,California,West,Technology,Machines,HP LaserJet Pro Multifunction Printer,810.0,2,0.1,72.0
+CA-2024-100370,2024-09-02,2024-09-07,Standard Class,Corporate,United States,Boston,Massachusetts,East,Furniture,Chairs,Herman Miller Ergonomic Task Chair,3900.0,6,0.0,780.0
+CA-2024-100374,2024-09-03,2024-09-05,First Class,Consumer,United States,San Francisco,California,West,Office Supplies,Art,Prismacolor Premier Colored Pencils 72ct,374.4,8,0.1,104.0
+CA-2024-100220,2024-09-03,2024-09-10,Standard Class,Consumer,United States,Philadelphia,Pennsylvania,East,Technology,Accessories,Logitech MX Master 3S Mouse,792.0,10,0.2,148.5
+CA-2024-100461,2024-09-03,2024-09-06,Second Class,Corporate,United States,Philadelphia,Pennsylvania,East,Technology,Copiers,Canon ImageCLASS Copier,1199.0,1,0.0,359.7
+CA-2024-100483,2024-09-06,2024-09-09,Second Class,Consumer,United States,Atlanta,Georgia,South,Technology,Copiers,Canon ImageCLASS Copier,4316.4,4,0.1,959.2
+CA-2024-100491,2024-09-06,2024-09-07,Same Day,Consumer,United States,Boston,Massachusetts,East,Furniture,Tables,BPI Conference Room Table,8900.0,10,0.0,1335.0
+CA-2024-100078,2024-09-08,2024-09-10,First Class,Corporate,United States,Chicago,Illinois,Central,Office Supplies,Paper,Hammermill Premium Multipurpose Paper 500ct,41.32,3,0.05,14.35
+CA-2024-100241,2024-09-08,2024-09-13,Standard Class,Consumer,United States,Philadelphia,Pennsylvania,East,Furniture,Chairs,Herman Miller Ergonomic Task Chair,4680.0,9,0.2,0.0
+CA-2024-100088,2024-09-08,2024-09-11,Second Class,Home Office,United States,San Francisco,California,West,Technology,Accessories,Logitech MX Master 3S Mouse,504.9,6,0.15,118.8
+CA-2024-100258,2024-09-08,2024-09-09,Same Day,Corporate,United States,Los Angeles,California,West,Technology,Accessories,Logitech MX Master 3S Mouse,178.2,2,0.1,49.5
+CA-2024-100347,2024-09-09,2024-09-12,Second Class,Consumer,United States,San Francisco,California,West,Technology,Phones,Apple iPhone 15 Pro,3596.4,4,0.1,599.4
+CA-2024-100026,2024-09-09,2024-09-14,Standard Class,Corporate,United States,San Francisco,California,West,Technology,Phones,Samsung Galaxy S24,4839.3,6,0.05,865.98
+CA-2024-100265,2024-09-10,2024-09-12,First Class,Home Office,United States,Los Angeles,California,West,Office Supplies,Storage,Fellowes Heavy-Duty Storage Boxes 12pk,472.5,7,0.1,78.75
+CA-2024-100479,2024-09-10,2024-09-13,Second Class,Home Office,United States,Houston,Texas,Central,Furniture,Furnishings,Deflecto Executive Desk Pad,360.0,10,0.2,90.0
+CA-2024-100285,2024-09-10,2024-09-11,Same Day,Home Office,United States,Seattle,Washington,West,Office Supplies,Appliances,Krups 12-Cup Programmable Coffee Maker,80.75,1,0.05,19.55
+CA-2024-100225,2024-09-11,2024-09-14,Second Class,Corporate,United States,Philadelphia,Pennsylvania,East,Office Supplies,Appliances,Krups 12-Cup Programmable Coffee Maker,612.0,8,0.1,122.4
+CA-2024-100130,2024-09-11,2024-09-18,Standard Class,Consumer,United States,Los Angeles,California,West,Technology,Accessories,Logitech MX Master 3S Mouse,69.3,1,0.3,4.95
+CA-2024-100349,2024-09-12,2024-09-13,Same Day,Consumer,United States,San Francisco,California,West,Technology,Machines,HP LaserJet Pro Multifunction Printer,900.0,2,0.0,162.0
+CA-2024-100494,2024-09-13,2024-09-16,Second Class,Consumer,United States,Detroit,Michigan,Central,Furniture,Chairs,Herman Miller Ergonomic Task Chair,3640.0,7,0.2,0.0
+CA-2024-100127,2024-09-13,2024-09-16,Second Class,Consumer,United States,Seattle,Washington,West,Office Supplies,Paper,Hammermill Premium Multipurpose Paper 500ct,52.2,4,0.1,16.24
+CA-2024-100018,2024-09-14,2024-09-19,Standard Class,Consumer,United States,Seattle,Washington,West,Furniture,Tables,BPI Conference Room Table,2670.0,3,0.0,400.5
+CA-2024-100239,2024-09-15,2024-09-20,Standard Class,Consumer,United States,Detroit,Michigan,Central,Furniture,Tables,BPI Conference Room Table,6808.5,9,0.15,0.0
+CA-2024-100179,2024-09-15,2024-09-20,Standard Class,Consumer,United States,San Francisco,California,West,Furniture,Tables,BPI Conference Room Table,4984.0,7,0.2,-311.5
+CA-2024-100066,2024-09-16,2024-09-21,Standard Class,Consumer,United States,Los Angeles,California,West,Furniture,Tables,BPI Conference Room Table,890.0,1,0.0,133.5
+CA-2024-100106,2024-09-17,2024-09-20,Second Class,Corporate,United States,Detroit,Michigan,Central,Furniture,Chairs,Herman Miller Ergonomic Task Chair,4550.0,7,0.0,910.0
+CA-2024-100418,2024-09-18,2024-09-21,Second Class,Consumer,United States,Miami,Florida,South,Technology,Phones,Samsung Galaxy S24,721.65,1,0.15,59.43
+CA-2024-100257,2024-09-19,2024-09-22,Second Class,Consumer,United States,Seattle,Washington,West,Furniture,Furnishings,Deflecto Executive Desk Pad,450.0,10,0.0,180.0
+CA-2024-100057,2024-09-20,2024-09-27,Standard Class,Corporate,United States,New York,New York,East,Office Supplies,Binders,GBC Heavy-Duty Binder 3-Inch,196.0,7,0.0,88.2
+CA-2024-100314,2024-09-20,2024-09-22,First Class,Consumer,United States,Chicago,Illinois,Central,Office Supplies,Envelopes,Quality Park Security Envelopes 500ct,110.0,5,0.0,46.2
+CA-2024-100411,2024-09-20,2024-09-25,Standard Class,Consumer,United States,Chicago,Illinois,Central,Office Supplies,Storage,Fellowes Heavy-Duty Storage Boxes 12pk,135.0,2,0.1,22.5
+CA-2024-100385,2024-09-20,2024-09-23,Second Class,Home Office,United States,Houston,Texas,Central,Furniture,Bookcases,Bush Mission Oak 4-Shelf Bookcase,320.0,1,0.0,38.4
+CA-2024-100052,2024-09-21,2024-09-22,Same Day,Consumer,United States,Chicago,Illinois,Central,Technology,Accessories,Logitech MX Master 3S Mouse,564.3,6,0.05,178.2
+CA-2024-100253,2024-09-23,2024-09-26,Second Class,Corporate,United States,Philadelphia,Pennsylvania,East,Technology,Copiers,Canon ImageCLASS Copier,11990.0,10,0.0,3597.0
+CA-2024-100113,2024-09-24,2024-09-26,First Class,Corporate,United States,Charlotte,North Carolina,South,Furniture,Furnishings,Deflecto Executive Desk Pad,180.0,4,0.0,72.0
+CA-2024-100198,2024-09-24,2024-09-27,Second Class,Corporate,United States,Charlotte,North Carolina,South,Furniture,Chairs,Herman Miller Ergonomic Task Chair,650.0,1,0.0,130.0
+CA-2024-100426,2024-09-25,2024-09-28,Second Class,Corporate,United States,Miami,Florida,South,Office Supplies,Appliances,Krups 12-Cup Programmable Coffee Maker,680.0,8,0.0,190.4
+CA-2024-100073,2024-09-26,2024-09-29,Second Class,Corporate,United States,Chicago,Illinois,Central,Technology,Copiers,Canon ImageCLASS Copier,3836.8,4,0.2,479.6
+CA-2024-100076,2024-09-27,2024-10-02,Standard Class,Home Office,United States,Los Angeles,California,West,Office Supplies,Storage,Fellowes Heavy-Duty Storage Boxes 12pk,525.0,7,0.0,131.25
+CA-2024-100408,2024-09-27,2024-10-02,Standard Class,Consumer,United States,Seattle,Washington,West,Furniture,Furnishings,Deflecto Executive Desk Pad,128.25,3,0.05,47.25
+CA-2024-100033,2024-09-27,2024-10-02,Standard Class,Consumer,United States,Atlanta,Georgia,South,Office Supplies,Storage,Fellowes Heavy-Duty Storage Boxes 12pk,120.0,2,0.2,7.5
+CA-2024-100002,2024-09-27,2024-09-30,Second Class,Consumer,United States,Los Angeles,California,West,Furniture,Tables,BPI Conference Room Table,5340.0,6,0.0,801.0
+CA-2024-100455,2024-09-28,2024-10-05,Standard Class,Consumer,United States,Chicago,Illinois,Central,Furniture,Bookcases,Bush Mission Oak 4-Shelf Bookcase,2560.0,8,0.0,307.2
+CA-2024-100367,2024-09-29,2024-09-30,Same Day,Consumer,United States,San Francisco,California,West,Furniture,Tables,BPI Conference Room Table,2269.5,3,0.15,0.0
+CA-2024-100047,2024-09-30,2024-10-03,Second Class,Consumer,United States,Philadelphia,Pennsylvania,East,Office Supplies,Art,Prismacolor Premier Colored Pencils 72ct,280.8,6,0.1,78.0
+CA-2024-100434,2024-10-01,2024-10-08,Standard Class,Consumer,United States,Los Angeles,California,West,Office Supplies,Paper,Hammermill Premium Multipurpose Paper 500ct,23.2,2,0.2,5.22
+CA-2024-100318,2024-10-03,2024-10-06,Second Class,Consumer,United States,Detroit,Michigan,Central,Office Supplies,Appliances,Krups 12-Cup Programmable Coffee Maker,484.5,6,0.05,117.3
+CA-2024-100022,2024-10-03,2024-10-04,Same Day,Corporate,United States,San Francisco,California,West,Technology,Machines,HP LaserJet Pro Multifunction Printer,3240.0,9,0.2,-81.0
+CA-2024-100300,2024-10-03,2024-10-05,First Class,Corporate,United States,Miami,Florida,South,Office Supplies,Art,Prismacolor Premier Colored Pencils 72ct,374.4,8,0.1,104.0
+CA-2024-100459,2024-10-04,2024-10-09,Standard Class,Consumer,United States,Boston,Massachusetts,East,Office Supplies,Paper,Hammermill Premium Multipurpose Paper 500ct,101.5,7,0.0,38.57
+CA-2024-100441,2024-10-05,2024-10-12,Standard Class,Consumer,United States,Houston,Texas,Central,Office Supplies,Binders,GBC Heavy-Duty Binder 3-Inch,112.0,4,0.0,50.4
+CA-2024-100086,2024-10-06,2024-10-13,Standard Class,Corporate,United States,New York,New York,East,Technology,Copiers,Canon ImageCLASS Copier,6474.6,9,0.4,-1079.1
+CA-2024-100227,2024-10-06,2024-10-09,Second Class,Consumer,United States,Los Angeles,California,West,Furniture,Tables,BPI Conference Room Table,845.5,1,0.05,89.0
+CA-2024-100498,2024-10-06,2024-10-11,Standard Class,Corporate,United States,Miami,Florida,South,Furniture,Furnishings,Deflecto Executive Desk Pad,270.0,6,0.0,108.0
+CA-2024-100338,2024-10-06,2024-10-08,First Class,Corporate,United States,Philadelphia,Pennsylvania,East,Office Supplies,Storage,Fellowes Heavy-Duty Storage Boxes 12pk,150.0,2,0.0,37.5
+CA-2024-100360,2024-10-06,2024-10-13,Standard Class,Consumer,United States,Miami,Florida,South,Furniture,Chairs,Herman Miller Ergonomic Task Chair,4095.0,9,0.3,-585.0
+CA-2024-100353,2024-10-07,2024-10-09,First Class,Consumer,United States,Los Angeles,California,West,Furniture,Tables,BPI Conference Room Table,7120.0,8,0.0,1068.0
+CA-2024-100315,2024-10-09,2024-10-11,First Class,Corporate,United States,San Francisco,California,West,Furniture,Bookcases,Bush Mission Oak 4-Shelf Bookcase,2592.0,9,0.1,57.6
+CA-2024-100175,2024-10-09,2024-10-14,Standard Class,Consumer,United States,Seattle,Washington,West,Office Supplies,Appliances,Krups 12-Cup Programmable Coffee Maker,85.0,1,0.0,23.8
+CA-2024-100132,2024-10-09,2024-10-11,First Class,Consumer,United States,Detroit,Michigan,Central,Technology,Copiers,Canon ImageCLASS Copier,7194.0,6,0.0,2158.2
+CA-2024-100321,2024-10-10,2024-10-12,First Class,Corporate,United States,Boston,Massachusetts,East,Office Supplies,Storage,Fellowes Heavy-Duty Storage Boxes 12pk,510.0,8,0.15,60.0
+CA-2024-100163,2024-10-10,2024-10-17,Standard Class,Home Office,United States,New York,New York,East,Technology,Phones,Apple iPhone 15 Pro,8541.45,9,0.05,1798.2
+CA-2024-100157,2024-10-10,2024-10-17,Standard Class,Home Office,United States,Miami,Florida,South,Office Supplies,Binders,GBC Heavy-Duty Binder 3-Inch,84.0,3,0.0,37.8
+CA-2024-100467,2024-10-11,2024-10-14,Second Class,Home Office,United States,San Francisco,California,West,Office Supplies,Art,Prismacolor Premier Colored Pencils 72ct,280.8,6,0.1,78.0
+CA-2024-100168,2024-10-12,2024-10-17,Standard Class,Home Office,United States,New York,New York,East,Technology,Machines,HP LaserJet Pro Multifunction Printer,1575.0,5,0.3,-270.0
+CA-2024-100319,2024-10-12,2024-10-15,Second Class,Corporate,United States,Houston,Texas,Central,Technology,Phones,Apple iPhone 15 Pro,1998.0,2,0.0,499.5
+CA-2024-100391,2024-10-14,2024-10-17,Second Class,Consumer,United States,New York,New York,East,Technology,Phones,Apple iPhone 15 Pro,4895.1,7,0.3,-349.65
+CA-2024-100362,2024-10-14,2024-10-21,Standard Class,Corporate,United States,Houston,Texas,Central,Furniture,Furnishings,Deflecto Executive Desk Pad,384.75,9,0.05,141.75
+CA-2024-100299,2024-10-15,2024-10-18,Second Class,Corporate,United States,New York,New York,East,Furniture,Bookcases,Bush Mission Oak 4-Shelf Bookcase,1600.0,5,0.0,192.0
+CA-2024-100105,2024-10-15,2024-10-17,First Class,Consumer,United States,Los Angeles,California,West,Furniture,Bookcases,Bush Mission Oak 4-Shelf Bookcase,2128.0,7,0.05,156.8
+CA-2024-100478,2024-10-15,2024-10-17,First Class,Home Office,United States,Chicago,Illinois,Central,Furniture,Bookcases,Bush Mission Oak 4-Shelf Bookcase,1152.0,4,0.1,25.6
+CA-2024-100448,2024-10-16,2024-10-19,Second Class,Corporate,United States,New York,New York,East,Furniture,Chairs,Herman Miller Ergonomic Task Chair,2600.0,4,0.0,520.0
+CA-2024-100488,2024-10-16,2024-10-23,Standard Class,Corporate,United States,San Francisco,California,West,Technology,Phones,Samsung Galaxy S24,6792.0,8,0.0,1494.24
+CA-2024-100118,2024-10-19,2024-10-24,Standard Class,Consumer,United States,San Francisco,California,West,Technology,Phones,Apple iPhone 15 Pro,949.05,1,0.05,199.8
+CA-2024-100020,2024-10-20,2024-10-23,Second Class,Consumer,United States,Atlanta,Georgia,South,Furniture,Bookcases,Bush Mission Oak 4-Shelf Bookcase,320.0,1,0.0,38.4
+CA-2024-100226,2024-10-20,2024-10-27,Standard Class,Consumer,United States,Los Angeles,California,West,Furniture,Chairs,Herman Miller Ergonomic Task Chair,5557.5,9,0.05,877.5
+CA-2024-100199,2024-10-21,2024-10-26,Standard Class,Home Office,United States,Philadelphia,Pennsylvania,East,Technology,Copiers,Canon ImageCLASS Copier,1918.4,2,0.2,239.8
+CA-2024-100080,2024-10-22,2024-10-27,Standard Class,Consumer,United States,Boston,Massachusetts,East,Furniture,Bookcases,Bush Mission Oak 4-Shelf Bookcase,1152.0,4,0.1,25.6
+CA-2024-100255,2024-10-24,2024-10-25,Same Day,Corporate,United States,Charlotte,North Carolina,South,Furniture,Furnishings,Deflecto Executive Desk Pad,360.0,8,0.0,144.0
+CA-2024-100369,2024-10-25,2024-10-28,Second Class,Consumer,United States,Houston,Texas,Central,Technology,Machines,HP LaserJet Pro Multifunction Printer,2205.0,7,0.3,-378.0
+CA-2024-100093,2024-10-27,2024-10-30,Second Class,Home Office,United States,Miami,Florida,South,Office Supplies,Storage,Fellowes Heavy-Duty Storage Boxes 12pk,675.0,9,0.0,168.75
+CA-2024-100340,2024-10-28,2024-10-31,Second Class,Home Office,United States,Philadelphia,Pennsylvania,East,Technology,Machines,HP LaserJet Pro Multifunction Printer,900.0,2,0.0,162.0
+CA-2024-100273,2024-10-30,2024-10-31,Same Day,Consumer,United States,Boston,Massachusetts,East,Technology,Accessories,Logitech MX Master 3S Mouse,188.1,2,0.05,59.4
+CA-2024-100264,2024-10-30,2024-11-04,Standard Class,Consumer,United States,Chicago,Illinois,Central,Office Supplies,Appliances,Krups 12-Cup Programmable Coffee Maker,85.0,1,0.0,23.8
+CA-2024-100075,2024-10-30,2024-11-01,First Class,Consumer,United States,Seattle,Washington,West,Furniture,Chairs,Herman Miller Ergonomic Task Chair,5200.0,8,0.0,1040.0
+CA-2024-100301,2024-10-30,2024-11-01,First Class,Consumer,United States,Seattle,Washington,West,Office Supplies,Appliances,Krups 12-Cup Programmable Coffee Maker,476.0,7,0.2,47.6
+CA-2024-100323,2024-10-30,2024-11-06,Standard Class,Corporate,United States,Boston,Massachusetts,East,Office Supplies,Paper,Hammermill Premium Multipurpose Paper 500ct,26.1,2,0.1,8.12
+CA-2024-100404,2024-10-31,2024-11-05,Standard Class,Corporate,United States,San Francisco,California,West,Technology,Phones,Samsung Galaxy S24,2164.95,3,0.15,178.29
+CA-2024-100377,2024-11-01,2024-11-06,Standard Class,Consumer,United States,Los Angeles,California,West,Technology,Accessories,Logitech MX Master 3S Mouse,84.15,1,0.15,19.8
+CA-2024-100042,2024-11-02,2024-11-05,Second Class,Home Office,United States,Boston,Massachusetts,East,Technology,Accessories,Logitech MX Master 3S Mouse,346.5,5,0.3,24.75
+CA-2024-100186,2024-11-02,2024-11-05,Second Class,Corporate,United States,Boston,Massachusetts,East,Furniture,Furnishings,Deflecto Executive Desk Pad,36.0,1,0.2,9.0
+CA-2024-100247,2024-11-03,2024-11-05,First Class,Home Office,United States,Philadelphia,Pennsylvania,East,Furniture,Bookcases,Bush Mission Oak 4-Shelf Bookcase,640.0,2,0.0,76.8
+CA-2024-100424,2024-11-03,2024-11-06,Second Class,Consumer,United States,Atlanta,Georgia,South,Office Supplies,Paper,Hammermill Premium Multipurpose Paper 500ct,58.0,4,0.0,22.04
+CA-2024-100017,2024-11-04,2024-11-05,Same Day,Corporate,United States,Atlanta,Georgia,South,Office Supplies,Paper,Hammermill Premium Multipurpose Paper 500ct,117.45,9,0.1,36.54
+CA-2024-100067,2024-11-05,2024-11-06,Same Day,Home Office,United States,New York,New York,East,Office Supplies,Paper,Hammermill Premium Multipurpose Paper 500ct,116.0,8,0.0,44.08
+CA-2024-100293,2024-11-05,2024-11-10,Standard Class,Home Office,United States,Chicago,Illinois,Central,Furniture,Bookcases,Bush Mission Oak 4-Shelf Bookcase,288.0,1,0.1,6.4
+CA-2024-100423,2024-11-06,2024-11-11,Standard Class,Consumer,United States,Boston,Massachusetts,East,Office Supplies,Appliances,Krups 12-Cup Programmable Coffee Maker,476.0,8,0.3,-13.6
+CA-2024-100380,2024-11-08,2024-11-13,Standard Class,Consumer,United States,Miami,Florida,South,Office Supplies,Envelopes,Quality Park Security Envelopes 500ct,209.0,10,0.05,81.4
+CA-2024-100024,2024-11-09,2024-11-11,First Class,Consumer,United States,Seattle,Washington,West,Furniture,Tables,BPI Conference Room Table,4227.5,5,0.05,445.0
+CA-2024-100401,2024-11-09,2024-11-12,Second Class,Consumer,United States,Charlotte,North Carolina,South,Furniture,Furnishings,Deflecto Executive Desk Pad,38.25,1,0.15,11.25
+CA-2024-100190,2024-11-10,2024-11-13,Second Class,Corporate,United States,Los Angeles,California,West,Office Supplies,Appliances,Krups 12-Cup Programmable Coffee Maker,153.0,2,0.1,30.6
+CA-2024-100379,2024-11-11,2024-11-14,Second Class,Corporate,United States,Philadelphia,Pennsylvania,East,Office Supplies,Binders,GBC Heavy-Duty Binder 3-Inch,252.0,9,0.0,113.4
+CA-2024-100049,2024-11-11,2024-11-14,Second Class,Consumer,United States,Chicago,Illinois,Central,Technology,Machines,HP LaserJet Pro Multifunction Printer,3825.0,10,0.15,135.0
+CA-2024-100322,2024-11-12,2024-11-15,Second Class,Consumer,United States,Los Angeles,California,West,Office Supplies,Art,Prismacolor Premier Colored Pencils 72ct,296.4,6,0.05,93.6
+CA-2024-100183,2024-11-13,2024-11-16,Second Class,Consumer,United States,Boston,Massachusetts,East,Office Supplies,Storage,Fellowes Heavy-Duty Storage Boxes 12pk,600.0,8,0.0,150.0
+CA-2024-100196,2024-11-13,2024-11-18,Standard Class,Corporate,United States,Seattle,Washington,West,Technology,Phones,Samsung Galaxy S24,7641.0,9,0.0,1681.02
+CA-2024-100440,2024-11-13,2024-11-18,Standard Class,Consumer,United States,Boston,Massachusetts,East,Office Supplies,Art,Prismacolor Premier Colored Pencils 72ct,221.0,5,0.15,52.0
+CA-2024-100433,2024-11-14,2024-11-17,Second Class,Consumer,United States,Philadelphia,Pennsylvania,East,Office Supplies,Appliances,Krups 12-Cup Programmable Coffee Maker,688.5,9,0.1,137.7
+CA-2024-100040,2024-11-15,2024-11-22,Standard Class,Consumer,United States,Chicago,Illinois,Central,Technology,Machines,HP LaserJet Pro Multifunction Printer,1147.5,3,0.15,40.5
+CA-2024-100384,2024-11-16,2024-11-19,Second Class,Consumer,United States,San Francisco,California,West,Office Supplies,Art,Prismacolor Premier Colored Pencils 72ct,197.6,4,0.05,62.4
+CA-2024-100390,2024-11-17,2024-11-22,Standard Class,Corporate,United States,San Francisco,California,West,Office Supplies,Paper,Hammermill Premium Multipurpose Paper 500ct,82.65,6,0.05,28.71
+CA-2024-100350,2024-11-18,2024-11-25,Standard Class,Corporate,United States,Boston,Massachusetts,East,Furniture,Bookcases,Bush Mission Oak 4-Shelf Bookcase,2560.0,8,0.0,307.2
+CA-2024-100357,2024-11-18,2024-11-21,Second Class,Consumer,United States,Detroit,Michigan,Central,Technology,Copiers,Canon ImageCLASS Copier,9711.9,9,0.1,2158.2
+CA-2024-100221,2024-11-19,2024-11-21,First Class,Consumer,United States,Boston,Massachusetts,East,Technology,Phones,Samsung Galaxy S24,7641.0,10,0.1,1018.8
+CA-2024-100228,2024-11-20,2024-11-23,Second Class,Home Office,United States,San Francisco,California,West,Office Supplies,Paper,Hammermill Premium Multipurpose Paper 500ct,98.6,8,0.15,26.68
+CA-2024-100495,2024-11-20,2024-11-21,Same Day,Home Office,United States,Boston,Massachusetts,East,Technology,Phones,Samsung Galaxy S24,2886.6,4,0.15,237.72
+CA-2024-100486,2024-11-20,2024-11-25,Standard Class,Consumer,United States,San Francisco,California,West,Furniture,Tables,BPI Conference Room Table,6764.0,8,0.05,712.0
+CA-2024-100237,2024-11-21,2024-11-23,First Class,Corporate,United States,Boston,Massachusetts,East,Office Supplies,Storage,Fellowes Heavy-Duty Storage Boxes 12pk,607.5,9,0.1,101.25
+CA-2024-100407,2024-11-21,2024-11-23,First Class,Consumer,United States,Philadelphia,Pennsylvania,East,Technology,Phones,Samsung Galaxy S24,5094.0,6,0.0,1120.68
+CA-2024-100096,2024-11-22,2024-11-25,Second Class,Corporate,United States,Los Angeles,California,West,Furniture,Chairs,Herman Miller Ergonomic Task Chair,4322.5,7,0.05,682.5
+CA-2024-100153,2024-11-22,2024-11-29,Standard Class,Consumer,United States,San Francisco,California,West,Office Supplies,Storage,Fellowes Heavy-Duty Storage Boxes 12pk,450.0,6,0.0,112.5
+CA-2024-100112,2024-11-23,2024-11-28,Standard Class,Consumer,United States,Seattle,Washington,West,Furniture,Chairs,Herman Miller Ergonomic Task Chair,1852.5,3,0.05,292.5
+CA-2024-100045,2024-11-24,2024-11-26,First Class,Consumer,United States,New York,New York,East,Furniture,Furnishings,Deflecto Executive Desk Pad,42.75,1,0.05,15.75
+CA-2024-100010,2024-11-26,2024-11-29,Second Class,Corporate,United States,Boston,Massachusetts,East,Office Supplies,Art,Prismacolor Premier Colored Pencils 72ct,166.4,4,0.2,31.2
+CA-2024-100169,2024-11-26,2024-12-01,Standard Class,Home Office,United States,San Francisco,California,West,Technology,Machines,HP LaserJet Pro Multifunction Printer,1710.0,4,0.05,234.0
+CA-2024-100499,2024-12-01,2024-12-03,First Class,Consumer,United States,Miami,Florida,South,Office Supplies,Storage,Fellowes Heavy-Duty Storage Boxes 12pk,180.0,3,0.2,11.25
+CA-2024-100084,2024-12-03,2024-12-04,Same Day,Corporate,United States,Houston,Texas,Central,Furniture,Bookcases,Bush Mission Oak 4-Shelf Bookcase,1360.0,5,0.15,-48.0
+CA-2024-100291,2024-12-03,2024-12-06,Second Class,Corporate,United States,Philadelphia,Pennsylvania,East,Furniture,Chairs,Herman Miller Ergonomic Task Chair,2730.0,7,0.4,-910.0
+CA-2024-100250,2024-12-03,2024-12-06,Second Class,Consumer,United States,Los Angeles,California,West,Technology,Machines,HP LaserJet Pro Multifunction Printer,1620.0,4,0.1,144.0
+CA-2024-100167,2024-12-05,2024-12-12,Standard Class,Home Office,United States,San Francisco,California,West,Furniture,Tables,BPI Conference Room Table,5340.0,6,0.0,801.0
+CA-2024-100055,2024-12-05,2024-12-08,Second Class,Corporate,United States,Philadelphia,Pennsylvania,East,Office Supplies,Art,Prismacolor Premier Colored Pencils 72ct,249.6,8,0.4,-20.8
+CA-2024-100284,2024-12-05,2024-12-08,Second Class,Corporate,United States,Charlotte,North Carolina,South,Office Supplies,Appliances,Krups 12-Cup Programmable Coffee Maker,765.0,10,0.1,153.0
+CA-2024-100475,2024-12-06,2024-12-08,First Class,Corporate,United States,Charlotte,North Carolina,South,Office Supplies,Binders,GBC Heavy-Duty Binder 3-Inch,214.2,9,0.15,75.6
+CA-2024-100403,2024-12-07,2024-12-12,Standard Class,Consumer,United States,New York,New York,East,Office Supplies,Storage,Fellowes Heavy-Duty Storage Boxes 12pk,67.5,1,0.1,11.25
+CA-2024-100393,2024-12-07,2024-12-14,Standard Class,Home Office,United States,Houston,Texas,Central,Office Supplies,Envelopes,Quality Park Security Envelopes 500ct,110.0,5,0.0,46.2
+CA-2024-100363,2024-12-07,2024-12-09,First Class,Corporate,United States,Miami,Florida,South,Office Supplies,Appliances,Krups 12-Cup Programmable Coffee Maker,408.0,6,0.2,40.8
+CA-2024-100210,2024-12-08,2024-12-11,Second Class,Corporate,United States,Los Angeles,California,West,Technology,Accessories,Logitech MX Master 3S Mouse,693.0,7,0.0,242.55
+CA-2024-100019,2024-12-09,2024-12-10,Same Day,Consumer,United States,Philadelphia,Pennsylvania,East,Office Supplies,Envelopes,Quality Park Security Envelopes 500ct,158.4,8,0.1,56.32
+CA-2024-100098,2024-12-09,2024-12-16,Standard Class,Home Office,United States,San Francisco,California,West,Technology,Phones,Apple iPhone 15 Pro,699.3,1,0.3,-49.95
+CA-2024-100095,2024-12-10,2024-12-15,Standard Class,Corporate,United States,Seattle,Washington,West,Technology,Copiers,Canon ImageCLASS Copier,6474.6,6,0.1,1438.8
+CA-2024-100028,2024-12-10,2024-12-15,Standard Class,Consumer,United States,Boston,Massachusetts,East,Furniture,Chairs,Herman Miller Ergonomic Task Chair,3900.0,6,0.0,780.0
+CA-2024-100260,2024-12-11,2024-12-18,Standard Class,Corporate,United States,Detroit,Michigan,Central,Office Supplies,Appliances,Krups 12-Cup Programmable Coffee Maker,144.5,2,0.15,22.1
+CA-2024-100135,2024-12-11,2024-12-14,Second Class,Corporate,United States,Boston,Massachusetts,East,Office Supplies,Paper,Hammermill Premium Multipurpose Paper 500ct,71.05,7,0.3,8.12
+CA-2024-100053,2024-12-11,2024-12-18,Standard Class,Consumer,United States,San Francisco,California,West,Technology,Phones,Apple iPhone 15 Pro,2397.6,3,0.2,149.85
+CA-2024-100242,2024-12-11,2024-12-13,First Class,Consumer,United States,Boston,Massachusetts,East,Technology,Phones,Apple iPhone 15 Pro,2997.0,3,0.0,749.25
+CA-2024-100437,2024-12-11,2024-12-14,Second Class,Corporate,United States,Seattle,Washington,West,Office Supplies,Binders,GBC Heavy-Duty Binder 3-Inch,168.0,6,0.0,75.6
+CA-2024-100171,2024-12-13,2024-12-16,Second Class,Home Office,United States,Philadelphia,Pennsylvania,East,Furniture,Furnishings,Deflecto Executive Desk Pad,42.75,1,0.05,15.75
+CA-2024-100339,2024-12-14,2024-12-16,First Class,Consumer,United States,San Francisco,California,West,Office Supplies,Appliances,Krups 12-Cup Programmable Coffee Maker,850.0,10,0.0,238.0
+CA-2024-100001,2024-12-14,2024-12-15,Same Day,Consumer,United States,Atlanta,Georgia,South,Furniture,Bookcases,Bush Mission Oak 4-Shelf Bookcase,304.0,1,0.05,22.4
+CA-2024-100238,2024-12-14,2024-12-17,Second Class,Consumer,United States,Philadelphia,Pennsylvania,East,Furniture,Bookcases,Bush Mission Oak 4-Shelf Bookcase,1600.0,5,0.0,192.0
+CA-2024-100290,2024-12-14,2024-12-19,Standard Class,Home Office,United States,Houston,Texas,Central,Office Supplies,Art,Prismacolor Premier Colored Pencils 72ct,416.0,8,0.0,145.6
+CA-2024-100460,2024-12-14,2024-12-17,Second Class,Corporate,United States,Charlotte,North Carolina,South,Office Supplies,Binders,GBC Heavy-Duty Binder 3-Inch,26.6,1,0.05,11.2
+CA-2024-100420,2024-12-15,2024-12-17,First Class,Consumer,United States,Los Angeles,California,West,Technology,Accessories,Logitech MX Master 3S Mouse,792.0,8,0.0,277.2
+CA-2024-100074,2024-12-16,2024-12-18,First Class,Consumer,United States,Miami,Florida,South,Furniture,Furnishings,Deflecto Executive Desk Pad,90.0,2,0.0,36.0
+CA-2024-100245,2024-12-17,2024-12-19,First Class,Consumer,United States,New York,New York,East,Office Supplies,Binders,GBC Heavy-Duty Binder 3-Inch,84.0,3,0.0,37.8
+CA-2024-100139,2024-12-17,2024-12-20,Second Class,Consumer,United States,Seattle,Washington,West,Furniture,Tables,BPI Conference Room Table,4806.0,9,0.4,-2002.5
+CA-2024-100389,2024-12-19,2024-12-21,First Class,Corporate,United States,Los Angeles,California,West,Technology,Machines,HP LaserJet Pro Multifunction Printer,3442.5,9,0.15,121.5
+CA-2024-100376,2024-12-20,2024-12-25,Standard Class,Consumer,United States,Detroit,Michigan,Central,Furniture,Furnishings,Deflecto Executive Desk Pad,94.5,3,0.3,13.5
+CA-2024-100422,2024-12-20,2024-12-25,Standard Class,Home Office,United States,Seattle,Washington,West,Furniture,Furnishings,Deflecto Executive Desk Pad,342.0,8,0.05,126.0
+CA-2024-100481,2024-12-22,2024-12-29,Standard Class,Consumer,United States,New York,New York,East,Technology,Phones,Samsung Galaxy S24,806.55,1,0.05,144.33
+CA-2024-100180,2024-12-24,2024-12-31,Standard Class,Corporate,United States,New York,New York,East,Office Supplies,Art,Prismacolor Premier Colored Pencils 72ct,148.2,3,0.05,46.8
+CA-2024-100131,2024-12-24,2024-12-25,Same Day,Corporate,United States,San Francisco,California,West,Office Supplies,Envelopes,Quality Park Security Envelopes 500ct,158.4,9,0.2,43.56
+CA-2024-100358,2024-12-25,2024-12-28,Second Class,Corporate,United States,San Francisco,California,West,Office Supplies,Storage,Fellowes Heavy-Duty Storage Boxes 12pk,540.0,8,0.1,90.0
+CA-2024-100121,2024-12-25,2024-12-26,Same Day,Corporate,United States,Chicago,Illinois,Central,Furniture,Furnishings,Deflecto Executive Desk Pad,94.5,3,0.3,13.5
+CA-2024-100013,2024-12-25,2024-12-27,First Class,Home Office,United States,Boston,Massachusetts,East,Office Supplies,Appliances,Krups 12-Cup Programmable Coffee Maker,510.0,10,0.4,-102.0
+CA-2024-100062,2024-12-25,2024-12-28,Second Class,Home Office,United States,Boston,Massachusetts,East,Furniture,Chairs,Herman Miller Ergonomic Task Chair,1170.0,2,0.1,130.0
+CA-2024-100251,2024-12-25,2024-12-27,First Class,Consumer,United States,Philadelphia,Pennsylvania,East,Technology,Copiers,Canon ImageCLASS Copier,2398.0,2,0.0,719.4
+CA-2024-100037,2024-12-29,2025-01-01,Second Class,Home Office,United States,Philadelphia,Pennsylvania,East,Office Supplies,Appliances,Krups 12-Cup Programmable Coffee Maker,403.75,5,0.05,97.75
+CA-2024-100312,2024-12-30,2025-01-01,First Class,Consumer,United States,Charlotte,North Carolina,South,Office Supplies,Binders,GBC Heavy-Duty Binder 3-Inch,56.0,2,0.0,25.2
+CA-2024-100419,2024-12-30,2025-01-04,Standard Class,Consumer,United States,Detroit,Michigan,Central,Furniture,Bookcases,Bush Mission Oak 4-Shelf Bookcase,960.0,3,0.0,115.2
