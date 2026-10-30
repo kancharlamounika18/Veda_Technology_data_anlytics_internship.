@@ -1,0 +1,6 @@
+KPI,Value,Formula / Verification
+Total Sales,1071330.00,SUM of Sales column
+Average Sales,21426.60,AVERAGE of Sales column
+Transaction Count,50,COUNTA of Transaction ID column
+
+Manual Verification,Passed,Sum of dataset Sales = 1071330.00
